@@ -1,5 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
+import xplore
+import os
+import dotenv
 
 class Article:
     def __init__(self, page_link):
@@ -40,25 +43,34 @@ class PageLink:
     
 
 def get_recently_added_links():
-    url = "https://ieeexplore.ieee.org"
-    response = requests.get(url + "/xpl/tocresult.jsp?isnumber=4359476")
-    html = response.text
-    print(response)
+    dotenv.load_dotenv()
+    api_key = os.environ.get("IEEE_API_KEY")
 
-    soup = BeautifulSoup(html, "html.parser")
+    query = xplore.xploreapi.XPLORE(api_key)
+    query.articleTitle('Deep Learning')
+    data = query.callAPI()
+    print(data)
 
-    contents = soup.find("div", class_="issue-list-container")
+#     url = "https://ieeexplore.ieee.org"
+#     response = requests.get(url + "/xpl/tocresult.jsp?isnumber=4359476")
+#     html = response.text
+#     print(response)
 
-    if contents:
-        items = contents.find_all("div", class_="result-item")
-        page_links = []
-        for item in items:
-            a = item.find("a")
-            page_links.append(PageLink(a.text, url + a["href"]))
-        return page_links
-    else:
-        return []
+#     soup = BeautifulSoup(html, "html.parser")
 
-for link in get_recently_added_links():
-    print(link)
+#     contents = soup.find("div", class_="issue-list-container")
 
+#     if contents:
+#         items = contents.find_all("div", class_="result-item")
+#         page_links = []
+#         for item in items:
+#             a = item.find("a")
+#             page_links.append(PageLink(a.text, url + a["href"]))
+#         return page_links
+#     else:
+#         return []
+
+# for link in get_recently_added_links():
+#     print(link)
+
+get_recently_added_links()
