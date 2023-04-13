@@ -2,6 +2,7 @@ import egdl
 import summarize
 import post
 import tog
+import datetime
 
 def check_new_articles(title, posted_articles_file):
     posted_articles = []
@@ -38,6 +39,9 @@ def execute(page_links, message_prefix, posted_articles_file, channel):
 
 def main():
     try:
+        with open("log.txt", "a") as f:
+            f.write(datetime.datetime.now().strftime("%Y/%m/%d %H:%M:%S") + "\n")
+
         execute(egdl.get_recently_added_links(), 
                 "EGに新しい論文が追加されました！", 
                 "posted_articles_eg.txt",

@@ -1,5 +1,5 @@
 As-Continuous-As-Possible Extrusion-Based Fabrication of Surface Models
-Data-driven Digital Lighting Design for Residential Indoor Spaces
-Geometric Optimisation Via Spectral Shifting
 Parsing-Conditioned Anime Translation: A New Dataset and Method
 Symmetric Volume Maps: Order-invariant Volumetric Mesh Correspondence with Free Boundary
+Geometric Optimisation Via Spectral Shifting
+Data-driven Digital Lighting Design for Residential Indoor Spaces
