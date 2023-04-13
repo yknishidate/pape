@@ -4,7 +4,7 @@ from slack_bolt.adapter.socket_mode import SocketModeHandler
 import dotenv
 import summarize
 import tog
-import post
+import datetime
 
 dotenv.load_dotenv()
 
@@ -16,6 +16,9 @@ app = App(token=SLACK_BOT_TOKEN)
 @app.message("hello")
 def message_hello(message, say):
     say(f"Hey there <@{message['user']}>!")
+    with open("log.txt", "a") as f:
+        timestamp = datetime.datetime.now().strftime("%Y/%m/%d %H:%M:%S")
+        f.write(f"Hello by <@{message['user']}> at {timestamp}\n")
 
 def get_url(element):
     if element['type'] == 'link':
@@ -38,6 +41,12 @@ def message_summarize(message, say):
             summary = summarize.summarize(article.title, article.abstract)
             msg = f"\n<{article.url}|{article.title}>\n{summary}"
             say(msg)
+            with open("log.txt", "a") as f:
+                timestamp = datetime.datetime.now().strftime("%Y/%m/%d %H:%M:%S")
+                f.write(f"Requested summary by <@{message['user']}> at {timestamp}\n")
 
 if __name__ == "__main__":
     SocketModeHandler(app, SLACK_APP_TOKEN).start()
+    with open("log.txt", "a") as f:
+        timestamp = datetime.datetime.now().strftime("%Y/%m/%d %H:%M:%S")
+        f.write("App started at " + timestamp + "\n")

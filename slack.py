@@ -40,7 +40,8 @@ def execute(page_links, message_prefix, posted_articles_file, channel):
 def main():
     try:
         with open("log.txt", "a") as f:
-            f.write(datetime.datetime.now().strftime("%Y/%m/%d %H:%M:%S") + "\n")
+            timestamp = datetime.datetime.now().strftime("%Y/%m/%d %H:%M:%S") + "\n"
+            f.write("Scheduled task started at " + timestamp)
 
         execute(egdl.get_recently_added_links(), 
                 "EGに新しい論文が追加されました！", 
