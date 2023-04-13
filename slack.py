@@ -3,6 +3,7 @@ import summarize
 import post
 import tog
 import datetime
+import log
 
 def check_new_articles(title, posted_articles_file):
     posted_articles = []
@@ -39,9 +40,7 @@ def execute(page_links, message_prefix, posted_articles_file, channel):
 
 def main():
     try:
-        with open("log.txt", "a") as f:
-            timestamp = datetime.datetime.now().strftime("%Y/%m/%d %H:%M:%S") + "\n"
-            f.write("Scheduled task started at " + timestamp)
+        log.log("Checking for new articles...")
 
         execute(egdl.get_recently_added_links(), 
                 "EGに新しい論文が追加されました！", 
