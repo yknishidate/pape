@@ -5,10 +5,10 @@ import os
 
 dotenv.load_dotenv()
 
-SLACK_API_TOKEN = os.getenv("SLACK_API_TOKEN")
+SLACK_BOT_TOKEN = os.getenv("SLACK_BOT_TOKEN")
 
 def post_message(message, channel):
-    client = WebClient(token=SLACK_API_TOKEN)
+    client = WebClient(token=SLACK_BOT_TOKEN)
     try:
         response = client.chat_postMessage(
             channel=channel,
