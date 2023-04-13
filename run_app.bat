@@ -1,3 +1,3 @@
 @echo off
 call activate.bat slack
-call python app.py
+call python bot.py serve
