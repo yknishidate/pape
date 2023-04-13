@@ -6,11 +6,14 @@ class Article:
         html = requests.get(page_link.url).text
         soup = BeautifulSoup(html, "html.parser")
 
-        self.title = page_link.title
         self.url = page_link.url
+        self.title = self._get_title(soup)
         self.abstract = self._get_abstract(soup)
         self.authors = self._get_authors(soup)
 
+    def _get_title(self, soup):
+        return soup.find("h1", class_="citation__title").text
+        
     def _get_abstract(self, soup):
         section = soup.find("div", class_="abstractSection")
         if section:
