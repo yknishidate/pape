@@ -89,18 +89,19 @@ def message_summarize(message, say):
         if 'acm.org' in url:
             page_link = tog.PageLink("", url)
             article = page_link.get_article()
+            log.log("Summarized " + article.title)
             summary = summarize.summarize(article.title, article.abstract)
             msg = f"\n<{article.url}|{article.title}>\n{summary}"
             say(msg)
-            log.log("Summarized " + article.title)
 
 
 if __name__ == "__main__":
     try:
         if sys.argv[1] == "serve":
-            SocketModeHandler(app, SLACK_APP_TOKEN).start()
             log.log("App started")
+            SocketModeHandler(app, SLACK_APP_TOKEN).start()
         elif sys.argv[1] == "post":
+            log.log("Posted new papers")
             execute(egdl.get_recently_added_links(), 
                     "EGに新しい論文が追加されました！", 
                     "posted_articles_eg.txt",
@@ -110,7 +111,5 @@ if __name__ == "__main__":
                     "ToGに新しい論文が追加されました！", 
                     "posted_articles_tog.txt",
                     "#new-papers-bot")
-            
-            log.log("Posted new papers")
     except Exception as e:
         log.log("Error: " + str(e))
