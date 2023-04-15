@@ -1,0 +1,2 @@
+Accelerated Photon Mapping for Hardware-based Ray Tracing
+The Energy Distance as a Replacement for the Reconstruction Loss in Conditional GANs

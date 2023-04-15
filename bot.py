@@ -8,6 +8,7 @@ import dotenv
 import summarize
 import egdl
 import tog
+import jcgt
 import log
 
 dotenv.load_dotenv()
@@ -41,25 +42,26 @@ def check_new_articles(title, posted_articles_file):
             f.write(title + "\n")
         return True
 
+def post_articles(articles, message_prefix, channel):
+    if articles != []:
+        message = f"{message_prefix}\n"
+        article = articles[0]
+        summary = summarize.summarize(article.title, article.abstract)
+        message += f"\n<{article.url}|{article.title}>\n{summary}\n"
+        post_message(message, channel)
 
-def execute(page_links, message_prefix, posted_articles_file, channel):
+        for article in articles[1:]:
+            summary = summarize.summarize(article.title, article.abstract)
+            message = f"\n<{article.url}|{article.title}>\n{summary}\n"
+            post_message(message, channel)
+
+def get_new_articles(page_links, posted_articles_file):
     new_articles = []
     for page_link in page_links:
         if check_new_articles(page_link.title, posted_articles_file):
             article = page_link.get_article()
             new_articles.append(article)
-        
-    if new_articles != []:
-        message = f"{message_prefix}\n"
-        article = new_articles[0]
-        summary = summarize.summarize(article.title, article.abstract)
-        message += f"\n<{article.url}|{article.title}>\n{summary}\n"
-        post_message(message, channel)
-
-        for article in new_articles[1:]:
-            summary = summarize.summarize(article.title, article.abstract)
-            message += f"\n<{article.url}|{article.title}>\n{summary}\n"
-            post_message(message, channel)
+    return new_articles
 
 app = App(token=SLACK_BOT_TOKEN)
 
@@ -102,14 +104,16 @@ if __name__ == "__main__":
             SocketModeHandler(app, SLACK_APP_TOKEN).start()
         elif sys.argv[1] == "post":
             log.log("Posted new papers")
-            execute(egdl.get_recently_added_links(), 
-                    "EGに新しい論文が追加されました！", 
-                    "posted_articles_eg.txt",
-                    "#new-papers-bot")
             
-            execute(tog.get_recently_added_links(), 
-                    "ToGに新しい論文が追加されました！", 
-                    "posted_articles_tog.txt",
-                    "#new-papers-bot")
+            new_articles = get_new_articles(egdl.get_recently_added_links(), "posted_articles_eg.txt")
+            post_articles(new_articles, "EGに新しい論文が追加されました！", "#new-papers-bot")
+            
+            new_articles = get_new_articles(tog.get_recently_added_links(), "posted_articles_tog.txt")
+            post_articles(new_articles, "ToGに新しい論文が追加されました！", "#new-papers-bot")
+
+            articles = jcgt.get_recently_added_articles()
+            new_articles = [article for article in articles if check_new_articles(article.title, "posted_articles_jcgt.txt")]
+            post_articles(new_articles, "JCGTに新しい論文が追加されました！", "#new-papers-bot")
+
     except Exception as e:
         log.log("Error: " + str(e))

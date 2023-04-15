@@ -1,6 +1,5 @@
 import json
 import requests
-from bs4 import BeautifulSoup
 
 
 class Article:
@@ -9,23 +8,6 @@ class Article:
         self.title = title
         self.abstract = abstract
 
-
-# def get_recently_added_links():
-#     url = "https://jcgt.org/"
-
-    # # html = response.text
-    # print(html)
-    # soup = BeautifulSoup(html, "html.parser")
-
-    # papers = soup.find_all("div", class_="papers")
-    # # print(len(papers))
-
-    # page_links = []
-    # for paper in papers:
-    #     # print(paper)
-    #     anchor = paper.find("a")
-    #     page_links.append(PageLink(anchor.text, url + anchor["href"]))
-    # return page_links
 
 def get_recently_added_articles():
     url = 'https://jcgt.org/papers.json'

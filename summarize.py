@@ -8,12 +8,11 @@ openai.organization = os.getenv("OPENAI_ORGANIZATION")
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def summarize(title, abstract):
-    system = """与えられた論文の要点を4点のみでまとめ、以下のフォーマットで日本語で出力してください。```
+    system = """与えられた論文の要点を3点のみでまとめ、以下のフォーマットで日本語で出力してください。```
     タイトルの日本語訳
     ・要点1
     ・要点2
     ・要点3
-    ・要点4
     ```"""
 
     text = f"title: {title}\nabstract: {abstract}"
