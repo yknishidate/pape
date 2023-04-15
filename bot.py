@@ -17,12 +17,22 @@ SLACK_BOT_TOKEN = os.getenv("SLACK_BOT_TOKEN")
 SLACK_APP_TOKEN = os.getenv("SLACK_APP_TOKEN")
 
 
-def post_message(message, channel):
+def post_message(message, channel, image_url=None):
     client = WebClient(token=SLACK_BOT_TOKEN)
+    attachments = None
+    if image_url:
+        attachments = [
+            {
+                "fallback": "Image preview",
+                "image_url": image_url,
+            }
+        ]
+
     try:
         response = client.chat_postMessage(
             channel=channel,
-            text=message
+            text=message,
+            attachments=attachments
         )
         print(f"Message posted: {response['ts']}")
     except SlackApiError as e:
