@@ -11,6 +11,7 @@ import tog
 import jcgt
 import log
 import cgit
+import tvc
 
 dotenv.load_dotenv()
 
@@ -124,6 +125,9 @@ if __name__ == "__main__":
             
             new_articles = get_new_articles(cgit.get_recently_added_links(), "posted_articles_cgit.txt")
             post_articles(new_articles, "CGITに新しい論文が追加されました！", "#new-papers-bot")
+            
+            new_articles = get_new_articles(tvc.get_recently_added_links(), "posted_articles_tvc.txt")
+            post_articles(new_articles, "TVCに新しい論文が追加されました！", "#new-papers-bot")
 
             articles = jcgt.get_recently_added_articles()
             new_articles = [article for article in articles if check_new_articles(article.title, "posted_articles_jcgt.txt")]
