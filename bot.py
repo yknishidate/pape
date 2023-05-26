@@ -12,6 +12,7 @@ import jcgt
 import log
 import cgit
 import tvc
+import tvcg
 
 dotenv.load_dotenv()
 
@@ -132,6 +133,10 @@ if __name__ == "__main__":
             articles = jcgt.get_recently_added_articles()
             new_articles = [article for article in articles if check_new_articles(article.title, "posted_articles_jcgt.txt")]
             post_articles(new_articles, "JCGTに新しい論文が追加されました！", "#new-papers-bot")
+
+            articles = tvcg.get_recently_added_articles()
+            new_articles = [article for article in articles if check_new_articles(article.title, "posted_articles_tvcg.txt")]
+            post_articles(new_articles, "TVCGに新しい論文が追加されました！", "#new-papers-bot")
 
     except Exception as e:
         log.log("Error: " + str(e))
