@@ -13,6 +13,7 @@ import log
 import cgit
 import tvc
 import tvcg
+import arxiv
 
 dotenv.load_dotenv()
 
@@ -55,17 +56,24 @@ def check_new_articles(title, posted_articles_file):
             f.write(title + "\n")
         return True
 
+def format_message(article, summary):
+    return f"\n*{article.title}*\n{summary}\n{article.url}\n"
+    # return f"\n{summary}\n{article.url}\n"
+
 def post_articles(articles, message_prefix, channel):
     if articles != []:
         message = f"{message_prefix}\n"
+
+        # Add the first article
         article = articles[0]
         summary = summarize.summarize(article.title, article.abstract)
-        message += f"\n<{article.url}|{article.title}>\n{summary}\n"
+        message += format_message(article, summary)
         post_message(message, channel)
 
+        # Add the rest of the articles
         for article in articles[1:]:
             summary = summarize.summarize(article.title, article.abstract)
-            message = f"\n<{article.url}|{article.title}>\n{summary}\n"
+            message = format_message(article, summary)
             post_message(message, channel)
 
 def get_new_articles(page_links, posted_articles_file):
@@ -137,6 +145,10 @@ if __name__ == "__main__":
             articles = tvcg.get_recently_added_articles()
             new_articles = [article for article in articles if check_new_articles(article.title, "posted_articles_tvcg.txt")]
             post_articles(new_articles, "TVCGに新しい論文が追加されました！", "#new-papers-bot")
+            
+            new_articles = get_new_articles(arxiv.get_recently_added_links(), "posted_articles_arxiv_gr.txt")
+            print(new_articles)
+            post_articles(new_articles, "arXiv/csGRに新しい論文が追加されました！", "#new-arxiv-gr")
 
     except Exception as e:
         log.log("Error: " + str(e))
