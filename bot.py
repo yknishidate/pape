@@ -48,7 +48,7 @@ def check_new_articles(title, posted_articles_file):
     with open(posted_articles_file, "r") as f:
         for line in f:
             posted_articles.append(line.strip())
-    
+
     if title in posted_articles:
         return False
     else:
@@ -56,9 +56,11 @@ def check_new_articles(title, posted_articles_file):
             f.write(title + "\n")
         return True
 
+
 def format_message(article, summary):
     return f"\n*{article.title}*\n{summary}\n{article.url}\n"
     # return f"\n{summary}\n{article.url}\n"
+
 
 def post_articles(articles, message_prefix, channel):
     if articles != []:
@@ -76,6 +78,7 @@ def post_articles(articles, message_prefix, channel):
             message = format_message(article, summary)
             post_message(message, channel)
 
+
 def get_new_articles(page_links, posted_articles_file):
     new_articles = []
     for page_link in page_links:
@@ -83,6 +86,7 @@ def get_new_articles(page_links, posted_articles_file):
             article = page_link.get_article()
             new_articles.append(article)
     return new_articles
+
 
 app = App(token=SLACK_BOT_TOKEN)
 
@@ -125,30 +129,51 @@ if __name__ == "__main__":
             SocketModeHandler(app, SLACK_APP_TOKEN).start()
         elif sys.argv[1] == "post":
             log.log("Posted new papers")
-            
-            new_articles = get_new_articles(egdl.get_recently_added_links(), "posted_articles_eg.txt")
-            post_articles(new_articles, "EGに新しい論文が追加されました！", "#new-papers-bot")
-            
-            new_articles = get_new_articles(tog.get_recently_added_links(), "posted_articles_tog.txt")
-            post_articles(new_articles, "ToGに新しい論文が追加されました！", "#new-papers-bot")
-            
-            new_articles = get_new_articles(cgit.get_recently_added_links(), "posted_articles_cgit.txt")
-            post_articles(new_articles, "CGITに新しい論文が追加されました！", "#new-papers-bot")
-            
-            new_articles = get_new_articles(tvc.get_recently_added_links(), "posted_articles_tvc.txt")
-            post_articles(new_articles, "TVCに新しい論文が追加されました！", "#new-papers-bot")
 
-            articles = jcgt.get_recently_added_articles()
-            new_articles = [article for article in articles if check_new_articles(article.title, "posted_articles_jcgt.txt")]
-            post_articles(new_articles, "JCGTに新しい論文が追加されました！", "#new-papers-bot")
+            try:
+                new_articles = get_new_articles(egdl.get_recently_added_links(), "posted_articles_eg.txt")
+                post_articles(new_articles, "EGに新しい論文が追加されました！", "#new-papers-bot")
+            except Exception as e:
+                log.log("[EG] Error: " + str(e))
 
-            articles = tvcg.get_recently_added_articles()
-            new_articles = [article for article in articles if check_new_articles(article.title, "posted_articles_tvcg.txt")]
-            post_articles(new_articles, "TVCGに新しい論文が追加されました！", "#new-papers-bot")
-            
-            new_articles = get_new_articles(arxiv.get_recently_added_links(), "posted_articles_arxiv_gr.txt")
-            print(new_articles)
-            post_articles(new_articles, "arXiv/csGRに新しい論文が追加されました！", "#new-arxiv-gr")
+            try:
+                new_articles = get_new_articles(tog.get_recently_added_links(), "posted_articles_tog.txt")
+                post_articles(new_articles, "ToGに新しい論文が追加されました！", "#new-papers-bot")
+            except Exception as e:
+                log.log("[ToG] Error: " + str(e))
+
+            try:
+                new_articles = get_new_articles(cgit.get_recently_added_links(), "posted_articles_cgit.txt")
+                post_articles(new_articles, "CGITに新しい論文が追加されました！", "#new-papers-bot")
+            except Exception as e:
+                log.log("[CGIT] Error: " + str(e))
+
+            try:
+                new_articles = get_new_articles(tvc.get_recently_added_links(), "posted_articles_tvc.txt")
+                post_articles(new_articles, "TVCに新しい論文が追加されました！", "#new-papers-bot")
+            except Exception as e:
+                log.log("[TVC] Error: " + str(e))
+
+            try:
+                articles = jcgt.get_recently_added_articles()
+                new_articles = [article for article in articles if check_new_articles(article.title, "posted_articles_jcgt.txt")]
+                post_articles(new_articles, "JCGTに新しい論文が追加されました！", "#new-papers-bot")
+            except Exception as e:
+                log.log("[JCGT] Error: " + str(e))
+
+            try:
+                articles = tvcg.get_recently_added_articles()
+                new_articles = [article for article in articles if check_new_articles(article.title, "posted_articles_tvcg.txt")]
+                post_articles(new_articles, "TVCGに新しい論文が追加されました！", "#new-papers-bot")
+            except Exception as e:
+                log.log("[TVCG] Error: " + str(e))
+
+            try:
+                new_articles = get_new_articles(arxiv.get_recently_added_links(), "posted_articles_arxiv_gr.txt")
+                print(new_articles)
+                post_articles(new_articles, "arXiv/csGRに新しい論文が追加されました！", "#new-arxiv-gr")
+            except Exception as e:
+                log.log("[arXiv] Error: " + str(e))
 
     except Exception as e:
         log.log("Error: " + str(e))
