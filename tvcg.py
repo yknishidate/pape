@@ -39,19 +39,21 @@ def get_recently_added_articles():
 
     query = xplore.xploreapi.XPLORE(api_key)
     # query.articleTitle('Deep Learning')
-    query.publicationTitle('IEEE Transactions on Visualization and Computer Graphics')
+    query.publicationTitle(
+        'IEEE Transactions on Visualization and Computer Graphics')
     query.publicationYear('2023')
     data = query.callAPI()
     # print(data.decode('utf-8')[:100])
     js = json.loads(data.decode('utf-8'))
     # output to file
     # articles = js['articles']
-    # with open('data.json', 'w') as outfile:
+    # with open('data.json', 'w', encoding='utf-8', errors='ignore') as outfile:
     #     json.dump(js, outfile)
     articles = []
     for article in js['articles']:
         if is_article(article):
-            articles.append(Article(article['title'], article['html_url'], article['abstract']))
+            articles.append(
+                Article(article['title'], article['html_url'], article['abstract']))
     # print(len(articles))
     return articles
     # try:

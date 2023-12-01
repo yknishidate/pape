@@ -1,0 +1,36 @@
+3D Gamut Morphing for Non-Rectangular Multi-Projector Displays
+3D Talking Face With Personalized Pose Dynamics
+3D-CariGAN: An End-to-End Solution to 3D Caricature Generation From Normal Face Photos
+A Calibrated Force-Based Model for Mixed Traffic Simulation
+A Comparative Evaluation of Optical See-through Augmented Reality in Surgical Guidance
+A Comparison of Spatiotemporal Visualizations for 3D Urban Analytics
+A Design Space for Surfacing Content Recommendations in Visual Analytic Platforms
+A Framework for Multiclass Contour Visualization
+A Lack of Restraint: Comparing Virtual Reality Interaction Techniques for Constrained Transport Seating
+A Music-Driven Deep Generative Adversarial Model for Guzheng Playing Animation
+A Parametric Design Method for Engraving Patterns on Thin Shells
+A Predictive Visual Analytics System for Studying Neurodegenerative Disease Based on DTI Fiber Tracts
+A Qualitative Interview Study of Distributed Tracing Visualisation: A Characterisation of Challenges and Opportunities
+A Scalable Method for Readable Tree Layouts
+A Scanner Deeply: Predicting Gaze Heatmaps on Visualizations Using Crowdsourced Eye Movement Data
+A Study of Change Blindness in Immersive Environments
+A Survey on Remote Assistance and Training in Mixed Reality Environments
+A Systematic Review of Navigation Assistance Systems for People With Dementia
+A Systematic Review on the Visualization of Avatars and Agents in AR & VR displayed using Head-Mounted Displays
+A Deep Generative Model for Reordering Adjacency Matrices
+A Model for Types and Levels of Automation in Visual Analytics: A Survey, a Taxonomy, and Examples
+A Collaborative, Interactive and Context-Aware Drawing Agent for Co-Creative Design
+A GPU Parallel Algorithm for Computing Morse-Smale Complexes
+A Hybrid in Situ Approach for Cost Efficient Image Database Generation
+A Review of Interaction Techniques for Immersive Environments
+A Grid-based Method for Removing Overlaps of Dimensionality Reduction Scatterplot Layouts
+A Comprehensive Evaluation Framework of Software Visualizations Effectiveness
+3DFaceShop: Explicitly Controllable 3D-Aware Portrait Generation
+A Comparative Study of the Perceptual Sensitivity of Topological Visualizations to Feature Variations
+A Comparative Visual Analytics Framework for Evaluating Evolutionary Processes in Multi-objective Optimization
+2D, 2.5D, or 3D? An Exploratory Study on Multilayer Network Visualisations in Virtual Reality
+360Åã Stereo Image Composition With Depth Adaption
+A Heuristic Approach for Dual Expert/End-User Evaluation of Guidance in Visual Analytics
+A Computational Design Pipeline to Fabricate Sensing Network Physicalizations
+A Current Loop Model for the Fast Simulation of Ferrofluids
+360¬∞ Stereo Image Composition With Depth Adaption

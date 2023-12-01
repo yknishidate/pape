@@ -13,3 +13,54 @@ The Ghost in The Machine: Digital Stylization and Expressive Re-Materialization 
 In Search of the Plastic Image: a Media Archaeology of Scan Processing
 KineCAM: An Instant Camera for Animated Photographs
 Below Victory: Subsurface Radar Advances for Creative Digital Heritage
+NeRFshop: Interactive Editing of Neural Radiance Fields
+NeRFahedron: A Primitive for Animatable Neural Rendering with Interactive Speed
+Efficient Rendering for Light Field Displays using Tailored Projective Mappings
+Efficient Spatial Resampling Using the PDF Similarity
+Eye-Based Point Rendering for Dynamic Multiview Effects
+Unpaired Translation of 3D Point Clouds with Multi-part Shape Representation
+ManiLoco: A VR-Based Locomotion Method for Concurrent Object Manipulation
+Subspace Culling for Ray-Box Intersection
+Importance-Based Ray Strategies for Dynamic Diffuse Global Illumination
+Joint Neural Denoising of Surfaces and Volumes
+Pixel-wise Guidance for Utilizing Auxiliary Features in Monte Carlo Denoising
+An Interactive Framework for Visually Realistic 3D Motion Synthesis using Evolutionarily-trained Spiking Neural Networks
+G2 Blending Ball B-Spline Curve by B-Spline
+Fast Position-based Multi-Agent Group Dynamics
+Real-Time Sand Dune Simulation
+Differentiable Curl-Noise: Boundary-Respecting Procedural Incompressible Flows Without Discontinuities
+Kiss/Crash: Using Diffusion Models to Explore Real Desire in the Shadow of Artificial Representations
+Immersive experience of Chinese poems and paintings
+Intersection of Seeing: New Ways of Experiencing Reality using Autonomous Volumetric Capture System
+Sonification of a juggling performance using spatial audio
+Lights! Dance! Freeze!: Exploring the dance-musical filmic space using embodied search in an interactive installation
+Bodylab: in virtuo sculpting, painting and performing of full-body avatars
+Movement Quality Visualization for Wheelchair Dance
+Aquaterrestrial Recolonization: AI Environmentalist Toward Design For Climate Action Related Behaviour Change
+Beauty: Explorations of Machine-Microbial Agencies
+Synplant: Cymatics Visualization of Plant-Environment Interaction Based on Plants Biosignals
+The Kestrel Drone: Reimagining Bird's Eye View with Biomimetic AI-drone for Bird Strike Prevention
+Communing with Creative AI
+Using Experimental Filmmaking to Create an Engaging Brain-Computer Interface
+Fine Motor Skills: Operating standard robotic fabrication as a generative system
+Hierarchical Planning and Control for Box Loco-Manipulation
+MAAIP: Multi-Agent Adversarial Interaction Priors for imitation from fighting demonstrations for physics-based characters
+Physics-based Motion Retargeting from Sparse Inputs
+Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies
+ACT2G: Attention-based Contrastive Learning for Text-to-Gesture Generation
+HDHumans: A Hybrid Approach for High-fidelity Digital Humans
+Motion In-Betweening with Phase Manifolds
+NeuroDog: Quadruped Embodiment using Neural Networks
+Adaptive Rigidification of Discrete Shells
+An Eigenanalysis of Angle-Based Deformation Energies
+A Unified Analysis of Penalty-Based Collision Energies
+Lifted Curls: A Model for Tightly Coiled Hair Simulation
+Towards Realtime: A Hybrid Physics-based Method for Hair Animation on GPU
+A Linear and Angular Momentum Conserving Hybrid Particle/Grid Iteration for Volumetric Elastic Contact
+Physical Cyclic Animations
+Micropolar Elasticity in Physically-Based Animation
+Two-Way Coupling of Skinning Transformations and Position Based Dynamics
+A comparison of linear consistent correction methods for first-order SPH derivatives
+A Generalized Constitutive Model for Versatile MPM Simulation and Inverse Learning with Differentiable Physics
+A Multilevel Active-Set Preconditioner for Box-Constrained Pressure Poisson Solvers
+DiffXPBD: Differentiable Position-Based Simulation of Compliant Constraint Dynamics

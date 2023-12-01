@@ -1,0 +1,2533 @@
+{
+    "total_records": 395,
+    "total_searched": 5956559,
+    "articles": [
+        {
+            "doi": "10.1109/TVCG.2022.3211630",
+            "title": "2022 IEEE VGTC Visualization Service Award",
+            "publisher": "IEEE",
+            "issue": "1",
+            "issn": "2160-9306",
+            "rank": 1,
+            "volume": "29",
+            "authors": {
+                "authors": []
+            },
+            "access_type": "EPHEMERA",
+            "content_type": "Journals",
+            "abstract": "Presents the recipient of the 2022 IEEE VGTC Visualization Service Award.",
+            "article_number": "9991005",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9991005",
+            "html_url": "https://ieeexplore.ieee.org/document/9991005/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 9991003,
+            "publication_year": 2023,
+            "publication_date": "Jan. 2023",
+            "start_page": "xxvii",
+            "end_page": "xxvii",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 60,
+            "insert_date": "20221216",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Awards"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2022.3211628",
+            "title": "2022 VGTC Visualization Dissertation Award",
+            "publisher": "IEEE",
+            "issue": "1",
+            "issn": "2160-9306",
+            "rank": 2,
+            "volume": "29",
+            "authors": {
+                "authors": []
+            },
+            "access_type": "EPHEMERA",
+            "content_type": "Journals",
+            "abstract": "Presents the recipient of the 2022 VGTC Visualization Dissertation Award.",
+            "article_number": "9991011",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9991011",
+            "html_url": "https://ieeexplore.ieee.org/document/9991011/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 9991003,
+            "publication_year": 2023,
+            "publication_date": "Jan. 2023",
+            "start_page": "xxxii",
+            "end_page": "xxxii",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 92,
+            "insert_date": "20221216",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Awards"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2022.3211629",
+            "title": "2022 VGTC Visualization Lifetime Achievement Award",
+            "publisher": "IEEE",
+            "issue": "1",
+            "issn": "2160-9306",
+            "rank": 3,
+            "volume": "29",
+            "authors": {
+                "authors": []
+            },
+            "access_type": "EPHEMERA",
+            "content_type": "Journals",
+            "abstract": "Presents the recipient of the 2022 VGTC Visualization Lifetime Achievement Award.",
+            "article_number": "9910432",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9910432",
+            "html_url": "https://ieeexplore.ieee.org/document/9910432/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 9991003,
+            "publication_year": 2023,
+            "publication_date": "Jan. 2023",
+            "start_page": "xxvi",
+            "end_page": "xxvi",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 160,
+            "insert_date": "20221004",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Awards"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2022.3211631",
+            "title": "2022 VGTC Visualization Significant New Researcher Award",
+            "publisher": "IEEE",
+            "issue": "1",
+            "issn": "2160-9306",
+            "rank": 4,
+            "volume": "29",
+            "authors": {
+                "authors": []
+            },
+            "access_type": "EPHEMERA",
+            "content_type": "Journals",
+            "abstract": "Presents the recipient of the 2022 VGTC Visualization Significant New Researcher Award.",
+            "article_number": "9991006",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9991006",
+            "html_url": "https://ieeexplore.ieee.org/document/9991006/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 9991003,
+            "publication_year": 2023,
+            "publication_date": "Jan. 2023",
+            "start_page": "xxviii",
+            "end_page": "xxix",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 75,
+            "insert_date": "20221216",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Awards"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2022.3211632",
+            "title": "2022 VGTC Visualization Technical Achievement Award",
+            "publisher": "IEEE",
+            "issue": "1",
+            "issn": "2160-9306",
+            "rank": 5,
+            "volume": "29",
+            "authors": {
+                "authors": []
+            },
+            "access_type": "EPHEMERA",
+            "content_type": "Journals",
+            "abstract": "Presents the recipient of the 2022 VGTC Visualization Technical Achievement Award.",
+            "article_number": "9991010",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9991010",
+            "html_url": "https://ieeexplore.ieee.org/document/9991010/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 9991003,
+            "publication_year": 2023,
+            "publication_date": "Jan. 2023",
+            "start_page": "xxx",
+            "end_page": "xxxi",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 75,
+            "insert_date": "20221216",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Awards"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2023.3249942",
+            "title": "2023 IEEE Conference on Virtual Reality and 3D User Interfaces",
+            "publisher": "IEEE",
+            "issue": "5",
+            "issn": "2160-9306",
+            "rank": 6,
+            "volume": "29",
+            "authors": {
+                "authors": []
+            },
+            "access_type": "EPHEMERA",
+            "content_type": "Journals",
+            "article_number": "10086964",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10086964",
+            "html_url": "https://ieeexplore.ieee.org/document/10086964/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 10086958,
+            "publication_year": 2023,
+            "publication_date": "May 2023",
+            "start_page": "ii",
+            "end_page": "ii",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 53,
+            "insert_date": "20230329",
+            "index_terms": {}
+        },
+        {
+            "doi": "10.1109/TVCG.2023.3277436",
+            "title": "3D Gamut Morphing for Non-Rectangular Multi-Projector Displays",
+            "publisher": "IEEE",
+            "issue": "99",
+            "issn": "2160-9306",
+            "rank": 7,
+            "volume": "PP",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "Genentech., USA",
+                        "full_name": "Mahdi Abbaspour Tehrani",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Genentech., USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "University of California, Irvine, USA",
+                        "full_name": "Muhammad Twaha Ibrahim",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "University of California, Irvine, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "University of California, Irvine, USA",
+                        "full_name": "Aditi Majumder",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "University of California, Irvine, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "University of California, Irvine, USA",
+                        "full_name": "M. Gopi",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "University of California, Irvine, USA"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Early Access Articles",
+            "abstract": "In a spatially augmented reality system, multiple projectors are tiled on a complex shaped surface to create a seamless display on it. This has several applications in visualization, gaming, education and entertainment. The main challenges in creating seamless and undistorted imagery on such complex shaped surfaces are geometric registration and color correction. Prior methods that provide solutions for the spatial color variation in multi-projector displays assume rectangular overlap regions across the projectors that is possible only on flat surfaces with extremely constrained projector placement. In this paper, we present a novel and fully automated method for removing color variations in a multi-projector display on arbitrary shaped smooth surfaces using a general color gamut morphing algorithm that can handle any arbitrarily shaped overlap between the projectors and assures imperceptible color variations across the display surface.",
+            "article_number": "10129055",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10129055",
+            "html_url": "https://ieeexplore.ieee.org/document/10129055/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/10129055/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 4359476,
+            "publication_year": 2023,
+            "start_page": "1",
+            "end_page": "15",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 0,
+            "insert_date": "20230518",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Image color analysis",
+                        "Three-dimensional displays",
+                        "Real-time systems",
+                        "Transfer functions",
+                        "Geometry",
+                        "Dynamic range",
+                        "Brightness"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Color-correction",
+                        "gamut morphing",
+                        "multi-projector displays",
+                        "photometric correction"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2021.3117484",
+            "title": "3D Talking Face With Personalized Pose Dynamics",
+            "publisher": "IEEE",
+            "issue": "2",
+            "issn": "2160-9306",
+            "rank": 8,
+            "volume": "29",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "Department of Computer Science, University of Texas at Dallas, Richardson, TX, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37088691633",
+                        "id": 37088691633,
+                        "full_name": "Chenxu Zhang",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science, University of Texas at Dallas, Richardson, TX, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Samsung Research America, Mountain View, CA, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089316161",
+                        "id": 37089316161,
+                        "full_name": "Saifeng Ni",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Samsung Research America, Mountain View, CA, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Tandon School of Engineering, New York University, New York, NY, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089316845",
+                        "id": 37089316845,
+                        "full_name": "Zhipeng Fan",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Tandon School of Engineering, New York University, New York, NY, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Computer Science, University of Texas at Dallas, Richardson, TX, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089667814",
+                        "id": 37089667814,
+                        "full_name": "Hongbo Li",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science, University of Texas at Dallas, Richardson, TX, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "School of Informatics, Xiamen University, Xiamen, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089501819",
+                        "id": 37089501819,
+                        "full_name": "Ming Zeng",
+                        "author_order": 5,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "School of Informatics, Xiamen University, Xiamen, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Samsung Research America, Mountain View, CA, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37373641400",
+                        "id": 37373641400,
+                        "full_name": "Madhukar Budagavi",
+                        "author_order": 6,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Samsung Research America, Mountain View, CA, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Computer Science, University of Texas at Dallas, Richardson, TX, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37280352300",
+                        "id": 37280352300,
+                        "full_name": "Xiaohu Guo",
+                        "author_order": 7,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science, University of Texas at Dallas, Richardson, TX, USA"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Journals",
+            "abstract": "Recently, we have witnessed a boom in applications for 3D talking face generation. However, most existing 3D face generation methods can only generate 3D faces with a static head pose, which is inconsistent with how humans perceive faces. Only a few articles focus on head pose generation, but even these ignore the attribute of personality. In this article, we propose a unified audio-driven approach to endow 3D talking faces with personalized pose dynamics. To achieve this goal, we establish an original person-specific dataset, providing corresponding head poses and face shapes for each video. Our framework is composed of two separate modules: PoseGAN and PGFace. Given an input audio, PoseGAN first produces a head pose sequence for the 3D head, and then, PGFace utilizes the audio and pose information to generate natural face models. With the combination of these two parts, a 3D talking head with dynamic head movement can be constructed. Experimental evidence indicates that our method can generate person-specific head pose sequences that are in sync with the input audio and that best match with the human experience of talking heads.",
+            "article_number": "9557828",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9557828",
+            "html_url": "https://ieeexplore.ieee.org/document/9557828/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/9557828/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 10003072,
+            "publication_year": 2023,
+            "publication_date": "1 Feb. 2023",
+            "start_page": "1438",
+            "end_page": "1449",
+            "citing_paper_count": 5,
+            "citing_patent_count": 0,
+            "download_count": 644,
+            "insert_date": "20211004",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Faces",
+                        "Three-dimensional displays",
+                        "Head",
+                        "Shape",
+                        "Solid modeling",
+                        "Hidden Markov models",
+                        "Dynamics"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Audio-driven generation",
+                        "3D talking face",
+                        "personalized pose",
+                        "generative adversarial network"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2021.3126659",
+            "title": "3D-CariGAN: An End-to-End Solution to 3D Caricature Generation From Normal Face Photos",
+            "publisher": "IEEE",
+            "issue": "4",
+            "issn": "2160-9306",
+            "rank": 9,
+            "volume": "29",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "Department of Computer Science and Technology, BNRist, MOE-Key Laboratory of Pervasive Computing, Tsinghua University, Beijing, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37088218378",
+                        "id": 37088218378,
+                        "full_name": "Zipeng Ye",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science and Technology, BNRist, MOE-Key Laboratory of Pervasive Computing, Tsinghua University, Beijing, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Computer Science and Technology, BNRist, MOE-Key Laboratory of Pervasive Computing, Tsinghua University, Beijing, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37088956287",
+                        "id": 37088956287,
+                        "full_name": "Mengfei Xia",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science and Technology, BNRist, MOE-Key Laboratory of Pervasive Computing, Tsinghua University, Beijing, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Computer Science and Technology, BNRist, MOE-Key Laboratory of Pervasive Computing, Tsinghua University, Beijing, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089014080",
+                        "id": 37089014080,
+                        "full_name": "Yanan Sun",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science and Technology, BNRist, MOE-Key Laboratory of Pervasive Computing, Tsinghua University, Beijing, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37086202095",
+                        "id": 37086202095,
+                        "full_name": "Ran Yi",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "College of Intelligence and Computing, Tianjin University, Tianjin, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37085878857",
+                        "id": 37085878857,
+                        "full_name": "Minjing Yu",
+                        "author_order": 5,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "College of Intelligence and Computing, Tianjin University, Tianjin, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "School of Mathematical Sciences, University of Science and Technology of China, Hefei, Anhui, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37085523951",
+                        "id": 37085523951,
+                        "full_name": "Juyong Zhang",
+                        "author_order": 6,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "School of Mathematical Sciences, University of Science and Technology of China, Hefei, Anhui, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "School of Computer Science and Informatics, Cardiff University, Cardiff, U.K",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/38575316500",
+                        "id": 38575316500,
+                        "full_name": "Yu-Kun Lai",
+                        "author_order": 7,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "School of Computer Science and Informatics, Cardiff University, Cardiff, U.K"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Computer Science and Technology, BNRist, MOE-Key Laboratory of Pervasive Computing, Tsinghua University, Beijing, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37279426700",
+                        "id": 37279426700,
+                        "full_name": "Yong-Jin Liu",
+                        "author_order": 8,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science and Technology, BNRist, MOE-Key Laboratory of Pervasive Computing, Tsinghua University, Beijing, China"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Journals",
+            "abstract": "Caricature is a type of artistic style of human faces that attracts considerable attention in the entertainment industry. So far a few 3D caricature generation methods exist and all of them require some caricature information (e.g., a caricature sketch or 2D caricature) as input. This kind of input, however, is difficult to provide by non-professional users. In this paper, we propose an end-to-end deep neural network model that generates high-quality 3D caricatures directly from a normal 2D face photo. The most challenging issue for our system is that the source domain of face photos (characterized by normal 2D faces) is significantly different from the target domain of 3D caricatures (characterized by 3D exaggerated face shapes and textures). To address this challenge, we: (1) build a large dataset of 5,343 3D caricature meshes and use it to establish a PCA model in the 3D caricature shape space; (2) reconstruct a normal full 3D head from the input face photo and use its PCA representation in the 3D caricature shape space to establish correspondences between the input photo and 3D caricature shape; and (3) propose a novel character loss and a novel caricature loss based on previous psychological studies on caricatures. Experiments including a novel two-level user study show that our system can generate high-quality 3D caricatures directly from normal face photos.",
+            "article_number": "9609545",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9609545",
+            "html_url": "https://ieeexplore.ieee.org/document/9609545/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/9609545/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 10054568,
+            "publication_year": 2023,
+            "publication_date": "1 April 2023",
+            "start_page": "2203",
+            "end_page": "2210",
+            "citing_paper_count": 6,
+            "citing_patent_count": 0,
+            "download_count": 329,
+            "insert_date": "20211109",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Three-dimensional displays",
+                        "Faces",
+                        "Solid modeling",
+                        "Shape",
+                        "Principal component analysis",
+                        "Image reconstruction",
+                        "Parametric statistics"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Face reconstruction",
+                        "3D caricature",
+                        "PCA representation",
+                        "caricature shape space"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2021.3128286",
+            "title": "A Calibrated Force-Based Model for Mixed Traffic Simulation",
+            "publisher": "IEEE",
+            "issue": "3",
+            "issn": "2160-9306",
+            "rank": 10,
+            "volume": "29",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "Department of Computer Science, Xidian University, Xi\u2019an, Shaanxi, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37085800962",
+                        "id": 37085800962,
+                        "full_name": "Qianwen Chao",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science, Xidian University, Xi\u2019an, Shaanxi, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "State Key Laboratory of CAD&CG, Zhejiang University, Hangzhou, Zhejiang, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089658501",
+                        "id": 37089658501,
+                        "full_name": "Pengfei Liu",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "State Key Laboratory of CAD&CG, Zhejiang University, Hangzhou, Zhejiang, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "State Key Laboratory of CAD&CG, Zhejiang University, Hangzhou, Zhejiang, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089004487",
+                        "id": 37089004487,
+                        "full_name": "Yi Han",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "State Key Laboratory of CAD&CG, Zhejiang University, Hangzhou, Zhejiang, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "State Key Laboratory of CAD&CG, Zhejiang University, Hangzhou, Zhejiang, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089708968",
+                        "id": 37089708968,
+                        "full_name": "Yingying Lin",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "State Key Laboratory of CAD&CG, Zhejiang University, Hangzhou, Zhejiang, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Computer Science, Xidian University, Xi\u2019an, Shaanxi, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089658482",
+                        "id": 37089658482,
+                        "full_name": "Chaoneng Li",
+                        "author_order": 5,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science, Xidian University, Xi\u2019an, Shaanxi, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Computer Science, Xidian University, Xi\u2019an, Shaanxi, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37413486900",
+                        "id": 37413486900,
+                        "full_name": "Qiguang Miao",
+                        "author_order": 6,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science, Xidian University, Xi\u2019an, Shaanxi, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "State Key Laboratory of CAD&CG, Zhejiang University, Hangzhou, Zhejiang, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37288456900",
+                        "id": 37288456900,
+                        "full_name": "Xiaogang Jin",
+                        "author_order": 7,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "State Key Laboratory of CAD&CG, Zhejiang University, Hangzhou, Zhejiang, China"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Journals",
+            "abstract": "Virtual traffic benefits a variety of applications, including video games, traffic engineering, autonomous driving, and virtual reality. To date, traffic visualization via different simulation models can reconstruct detailed traffic flows. However, each specific behavior of vehicles is always described by establishing an independent control model. Moreover, mutual interactions between vehicles and other road users are rarely modeled in existing simulators. An all-in-one simulator that considers the complex behaviors of all potential road users in a realistic urban environment is urgently needed. In this work, we propose a novel, extensible, and microscopic method to build heterogeneous traffic simulation using the force-based concept. This force-based approach can accurately replicate the sophisticated behaviors of various road users and their interactions in a simple and unified manner. We calibrate the model parameters using real-world traffic trajectory data. The effectiveness of this approach is demonstrated through many simulation experiments, as well as comparisons to real-world traffic data and popular microscopic simulators for traffic animation.",
+            "article_number": "9616433",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9616433",
+            "html_url": "https://ieeexplore.ieee.org/document/9616433/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/9616433/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 10032251,
+            "publication_year": 2023,
+            "publication_date": "1 March 2023",
+            "start_page": "1664",
+            "end_page": "1677",
+            "citing_paper_count": 4,
+            "citing_patent_count": 0,
+            "download_count": 408,
+            "insert_date": "20211116",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Computational modeling",
+                        "Roads",
+                        "Force",
+                        "Solid modeling",
+                        "Microscopy",
+                        "Data models",
+                        "Trajectory"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Traffic simulation",
+                        "simulator",
+                        "detailed traffic flow",
+                        "heterogeneous",
+                        "social force"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2023.3260001",
+            "title": "A Comparative Evaluation of Optical See-through Augmented Reality in Surgical Guidance",
+            "publisher": "IEEE",
+            "issue": "99",
+            "issn": "2160-9306",
+            "rank": 11,
+            "volume": "PP",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "Department of Biomedical Engineering, Tsinghua University, Beijing, China",
+                        "full_name": "Ruiyang Li",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Biomedical Engineering, Tsinghua University, Beijing, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Biomedical Engineering, Tsinghua University, Beijing, China",
+                        "full_name": "Boxuan Han",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Biomedical Engineering, Tsinghua University, Beijing, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Biomedical Engineering, Tsinghua University, Beijing, China",
+                        "full_name": "Haowei Li",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Biomedical Engineering, Tsinghua University, Beijing, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Biomedical Engineering, Tsinghua University, Beijing, China",
+                        "full_name": "Longfei Ma",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Biomedical Engineering, Tsinghua University, Beijing, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Biomedical Engineering, Tsinghua University, Beijing, China",
+                        "full_name": "Xinran Zhang",
+                        "author_order": 5,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Biomedical Engineering, Tsinghua University, Beijing, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Orthopaedics, Tsinghua University, Beijing Tsinghua Changgung Hospital. School of Clinical Medicine, China",
+                        "full_name": "Zhe Zhao",
+                        "author_order": 6,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Orthopaedics, Tsinghua University, Beijing Tsinghua Changgung Hospital. School of Clinical Medicine, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Biomedical Engineering, Tsinghua University, Beijing, China",
+                        "full_name": "Hongen Liao",
+                        "author_order": 7,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Biomedical Engineering, Tsinghua University, Beijing, China"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Early Access Articles",
+            "abstract": "During traditional surgeries, planning and instrument guidance is displayed on an external screen. Recent developments of augmented reality (AR) techniques can overcome obstacles including hand-eye discoordination and heavy mental load. Among these AR technologies, optical see-through (OST) schemes with stereoscopic displays can provide depth perception and retain the physical scene for safety considerations. However, limitations still exist in certain AR systems and the influence of these factors on surgical performance is yet to explore. To this end, experiments of multi-scale surgical tasks were carried out to compare head-mounted display (HMD) AR and autostereoscopic image overlay (AIO) AR, concerning objective performance and subjective evaluation. To solely analyze effects brought by display techniques, the tracking system in each included display system was identical and similar tracking accuracy was proved by a preliminary experiment. Focus and context rendering was utilized to enhance in-situ visualization for surgical guidance. Latency values of all display systems were assessed and a delay experiment proved the latency differences had no significant impact on user performance. Results of multi-scale surgical tasks showed that HMD outperformed in detailed operations probably due to stable resolution along the depth axis, while AIO had better performance in larger-scale operations for better depth perception. This paper helps point out the critical limitations of current OST AR techniques and potentially promotes the progress of AR applications in surgical guidance.",
+            "article_number": "10077744",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10077744",
+            "html_url": "https://ieeexplore.ieee.org/document/10077744/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/10077744/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 4359476,
+            "publication_year": 2023,
+            "start_page": "1",
+            "end_page": "13",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 83,
+            "insert_date": "20230321",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Surgery",
+                        "Resists",
+                        "Navigation",
+                        "Task analysis",
+                        "Optical imaging",
+                        "Display systems",
+                        "Biomedical optical imaging"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Augmented reality",
+                        "autostereoscopic image overlay",
+                        "head-mounted display",
+                        "optical see-through",
+                        "surgical guidance"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2022.3209474",
+            "title": "A Comparison of Spatiotemporal Visualizations for 3D Urban Analytics",
+            "publisher": "IEEE",
+            "issue": "1",
+            "issn": "2160-9306",
+            "rank": 12,
+            "volume": "29",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "University of Calgary, Canada",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37085638005",
+                        "id": 37085638005,
+                        "full_name": "Roberta Mota",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "University of Calgary, Canada"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Universidade Federal de Pernambuco, Brazil",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/38018628600",
+                        "id": 38018628600,
+                        "full_name": "Nivan Ferreira",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Universidade Federal de Pernambuco, Brazil"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "University of Calgary, Canada",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37085898404",
+                        "id": 37085898404,
+                        "full_name": "Julio Daniel Silva",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "University of Calgary, Canada"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "University of Illinois at Chicago, United States",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089642033",
+                        "id": 37089642033,
+                        "full_name": "Marius Horga",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "University of Illinois at Chicago, United States"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Universidade Federal Fluminense, Brazil",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37721747800",
+                        "id": 37721747800,
+                        "full_name": "Marcos Lage",
+                        "author_order": 5,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Universidade Federal Fluminense, Brazil"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "New York University, United States",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089641937",
+                        "id": 37089641937,
+                        "full_name": "Luis Ceferino",
+                        "author_order": 6,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "New York University, United States"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "University of Calgary, Canada",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37085906267",
+                        "id": 37085906267,
+                        "full_name": "Usman Alim",
+                        "author_order": 7,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "University of Calgary, Canada"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "University of Calgary, Canada",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37300925900",
+                        "id": 37300925900,
+                        "full_name": "Ehud Sharlin",
+                        "author_order": 8,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "University of Calgary, Canada"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "University of Illinois at Chicago, United States",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37085886059",
+                        "id": 37085886059,
+                        "full_name": "Fabio Miranda",
+                        "author_order": 9,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "University of Illinois at Chicago, United States"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Journals",
+            "abstract": "Recent technological innovations have led to an increase in the availability of 3D urban data, such as shadow, noise, solar potential, and earthquake simulations. These spatiotemporal datasets create opportunities for new visualizations to engage experts from different domains to study the dynamic behavior of urban spaces in this under explored dimension. However, designing 3D spatiotemporal urban visualizations is challenging, as it requires visual strategies to support analysis of time-varying data referent to the city geometry. Although different visual strategies have been used in 3D urban visual analytics, the question of how effective these visual designs are at supporting spatiotemporal analysis on building surfaces remains open. To investigate this, in this paper we first contribute a series of analytical tasks elicited after interviews with practitioners from three urban domains. We also contribute a quantitative user study comparing the effectiveness of four representative visual designs used to visualize 3D spatiotemporal urban data: spatial juxtaposition, temporal juxtaposition, linked view, and embedded view. Participants performed a series of tasks that required them to identify extreme values on building surfaces over time. Tasks varied in granularity for both space and time dimensions. Our results demonstrate that participants were more accurate using plot-based visualizations (linked view, embedded view) but faster using color-coded visualizations (spatial juxtaposition, temporal juxtaposition). Our results also show that, with increasing task complexity, plot-based visualizations perform better in preserving efficiency (time, accuracy) compared to color-coded visualizations. Based on our findings, we present a set of takeaways with design recommendations for 3D spatiotemporal urban visualizations for researchers and practitioners. Lastly, we report on a series of interviews with four practitioners, and their feedback and suggestions for further work on the visualizations to support 3D spatiotemporal urban data analysis.",
+            "article_number": "9904453",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9904453",
+            "html_url": "https://ieeexplore.ieee.org/document/9904453/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/9904453/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 9991003,
+            "publication_year": 2023,
+            "publication_date": "Jan. 2023",
+            "start_page": "1277",
+            "end_page": "1287",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 221,
+            "insert_date": "20220927",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Data visualization",
+                        "Three-dimensional displays",
+                        "Urban areas",
+                        "Spatiotemporal phenomena",
+                        "Task analysis",
+                        "Buildings",
+                        "Spatial databases"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Visualization",
+                        "urban analytics",
+                        "urban data",
+                        "spatiotemporal data",
+                        "empirical evaluation"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2022.3209445",
+            "title": "A Design Space for Surfacing Content Recommendations in Visual Analytic Platforms",
+            "publisher": "IEEE",
+            "issue": "1",
+            "issn": "2160-9306",
+            "rank": 13,
+            "volume": "29",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "Department of Computer Science, University of North Carolina at Chapel Hill, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089643807",
+                        "id": 37089643807,
+                        "full_name": "Zhilan Zhou",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science, University of North Carolina at Chapel Hill, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "School of Information and Library Science, University of North Carolina at Chapel Hill, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37086596233",
+                        "id": 37086596233,
+                        "full_name": "Wenyuan Wang",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "School of Information and Library Science, University of North Carolina at Chapel Hill, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "School of Information and Library Science, University of North Carolina at Chapel Hill, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089645097",
+                        "id": 37089645097,
+                        "full_name": "Mengtian Guo",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "School of Information and Library Science, University of North Carolina at Chapel Hill, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "School of Information and Library Science, University of North Carolina at Chapel Hill, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37087095531",
+                        "id": 37087095531,
+                        "full_name": "Yue Wang",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "School of Information and Library Science, University of North Carolina at Chapel Hill, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "School of Information and Library Science, University of North Carolina at Chapel Hill, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37601397400",
+                        "id": 37601397400,
+                        "full_name": "David Gotz",
+                        "author_order": 5,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "School of Information and Library Science, University of North Carolina at Chapel Hill, USA",
+                                "Department of Computer Science, University of North Carolina at Chapel Hill, USA"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Journals",
+            "abstract": "Recommendation algorithms have been leveraged in various ways within visualization systems to assist users as they perform of a range of information tasks. One common focus for these techniques has been the recommendation of content, rather than visual form, as a means to assist users in the identification of information that is relevant to their task context. A wide variety of techniques have been proposed to address this general problem, with a range of design choices in how these solutions surface relevant information to users. This paper reviews the state-of-the-art in how visualization systems surface recommended content to users during users' visual analysis; introduces a four-dimensional design space for visual content recommendation based on a characterization of prior work; and discusses key observations regarding common patterns and future research opportunities.",
+            "article_number": "9909985",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9909985",
+            "html_url": "https://ieeexplore.ieee.org/document/9909985/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/9909985/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 9991003,
+            "publication_year": 2023,
+            "publication_date": "Jan. 2023",
+            "start_page": "84",
+            "end_page": "94",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 173,
+            "insert_date": "20221004",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Libraries",
+                        "Recommender systems",
+                        "Visual analytics",
+                        "Data visualization",
+                        "Task analysis",
+                        "Search problems",
+                        "Human computer interaction"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Adaptive Visualization",
+                        "Recommendation",
+                        "Literature Survey",
+                        "Design Space"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2022.3209482",
+            "title": "A Framework for Multiclass Contour Visualization",
+            "publisher": "IEEE",
+            "issue": "1",
+            "issn": "2160-9306",
+            "rank": 14,
+            "volume": "29",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "Ministry of Education, Key Laboratory of Machine Perception, School of AI, Peking University, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37087099711",
+                        "id": 37087099711,
+                        "full_name": "Sihang Li",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Ministry of Education, Key Laboratory of Machine Perception, School of AI, Peking University, China",
+                                "Center for Data Science, Academy for Advanced Interdisciplinary Studies, Peking University, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Ministry of Education, Key Laboratory of Machine Perception, School of AI, Peking University, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089416732",
+                        "id": 37089416732,
+                        "full_name": "Jiacheng Yu",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Ministry of Education, Key Laboratory of Machine Perception, School of AI, Peking University, China",
+                                "Center for Data Science, Academy for Advanced Interdisciplinary Studies, Peking University, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Ministry of Education, Key Laboratory of Machine Perception, School of AI, Peking University, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089641725",
+                        "id": 37089641725,
+                        "full_name": "Mingxuan Li",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Ministry of Education, Key Laboratory of Machine Perception, School of AI, Peking University, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "School of Computer Science, Northwestern Polytechnical University, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089641340",
+                        "id": 37089641340,
+                        "full_name": "Le Liu",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "School of Computer Science, Northwestern Polytechnical University, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "College of Information Sciences and Technology, Pennsylvania State University, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37086547462",
+                        "id": 37086547462,
+                        "full_name": "Xiaolong Luke Zhang",
+                        "author_order": 5,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "College of Information Sciences and Technology, Pennsylvania State University, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Ministry of Education, Key Laboratory of Machine Perception, School of AI, Peking University, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37403856700",
+                        "id": 37403856700,
+                        "full_name": "Xiaoru Yuan",
+                        "author_order": 6,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Ministry of Education, Key Laboratory of Machine Perception, School of AI, Peking University, China",
+                                "National Engineering Laboratory for Big Data Analysis and Application, Peking University, China"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Journals",
+            "abstract": "Multiclass contour visualization is often used to interpret complex data attributes in such fields as weather forecasting, computational fluid dynamics, and artificial intelligence. However, effective and accurate representations of underlying data patterns and correlations can be challenging in multiclass contour visualization, primarily due to the inevitable visual cluttering and occlusions when the number of classes is significant. To address this issue, visualization design must carefully choose design parameters to make visualization more comprehensible. With this goal in mind, we proposed a framework for multiclass contour visualization. The framework has two components: a set of four visualization design parameters, which are developed based on an extensive review of literature on contour visualization, and a declarative domain-specific language (DSL) for creating multiclass contour rendering, which enables a fast exploration of those design parameters. A task-oriented user study was conducted to assess how those design parameters affect users' interpretations of real-world data. The study results offered some suggestions on the value choices of design parameters in multiclass contour visualization.",
+            "article_number": "9909991",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9909991",
+            "html_url": "https://ieeexplore.ieee.org/document/9909991/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/9909991/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 9991003,
+            "publication_year": 2023,
+            "publication_date": "Jan. 2023",
+            "start_page": "353",
+            "end_page": "362",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 323,
+            "insert_date": "20221004",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Data visualization",
+                        "Visualization",
+                        "Filling",
+                        "DSL",
+                        "Domain specific languages",
+                        "Task analysis",
+                        "Image color analysis"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Contour",
+                        "multiclass visualization",
+                        "visualization framework",
+                        "domain-specific language",
+                        "visualization design"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2023.3247084",
+            "title": "A Lack of Restraint: Comparing Virtual Reality Interaction Techniques for Constrained Transport Seating",
+            "publisher": "IEEE",
+            "issue": "5",
+            "issn": "2160-9306",
+            "rank": 15,
+            "volume": "29",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "School of Computing Science, University of Glasgow, Glasgow, UK",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089781801",
+                        "id": 37089781801,
+                        "full_name": "Graham Wilson",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "School of Computing Science, University of Glasgow, Glasgow, UK"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "School of Computing Science, University of Glasgow, Glasgow, UK",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37088702484",
+                        "id": 37088702484,
+                        "full_name": "Mark McGill",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "School of Computing Science, University of Glasgow, Glasgow, UK"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "School of Computing Science, University of Glasgow, Glasgow, UK",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/38474069600",
+                        "id": 38474069600,
+                        "full_name": "Daniel Medeiros",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "School of Computing Science, University of Glasgow, Glasgow, UK"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "School of Computing Science, University of Glasgow, Glasgow, UK",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37326135400",
+                        "id": 37326135400,
+                        "full_name": "Stephen Brewster",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "School of Computing Science, University of Glasgow, Glasgow, UK"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Journals",
+            "abstract": "Standalone Virtual Reality (VR) headsets can be used when travelling in cars, trains and planes. However, the constrained spaces around transport seating can leave users with little physical space in which to interact using their hands or controllers, and can increase the risk of invading other passengers' personal space or hitting nearby objects and surfaces. This hinders transport VR users from using most commercial VR applications, which are designed for unobstructed 1-2m 360\u00b0 home spaces. In this paper, we investigated whether three at-a-distance interaction techniques from the literature could be adapted to support common commercial VR movement inputs and so equalise the interaction capabilities of at-home and on-transport users: Linear Gain, Gaze-Supported Remote Hand, and AlphaCursor. First, we analysed commercial VR experiences to identify the most common movement inputs so that we could create gamified tasks based on them. We then investigated how well each technique could support these inputs from a constrained $50\\mathrm{x}50\\text{cm}$ space (representative of an economy plane seat) through a user study $(\\mathrm{N}=16)$, where participants played all three games with each technique. We measured task performance, unsafe movements (play boundary violations, total arm movement) and subjective experience and compared results to a control \u2018at-home\u2019 condition (with unconstrained movement) to determine how similar performance and experience were. Results showed that Linear Gain was the best technique, with similar performance and user experience to the \u2018at-home\u2019 condition, albeit at the expense of a high number of boundary violations and large arm movements. In contrast, AlphaCursor kept users within bounds and minimised arm movement, but suffered from poorer performance and experience. Based on the results, we provide eight guidelines for the use of, and research into, at-a-distance techniques and constrained spaces.",
+            "article_number": "10058530",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10058530",
+            "html_url": "https://ieeexplore.ieee.org/document/10058530/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/10058530/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 10086958,
+            "publication_year": 2023,
+            "publication_date": "May 2023",
+            "start_page": "2390",
+            "end_page": "2400",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 116,
+            "insert_date": "20230303",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Aerospace electronics",
+                        "Task analysis",
+                        "Automobiles",
+                        "Space exploration",
+                        "Games",
+                        "X reality",
+                        "Weapons"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Virtual Reality",
+                        "Interaction",
+                        "Constrained Spaces",
+                        "Transport"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2021.3115902",
+            "title": "A Music-Driven Deep Generative Adversarial Model for Guzheng Playing Animation",
+            "publisher": "IEEE",
+            "issue": "2",
+            "issn": "2160-9306",
+            "rank": 16,
+            "volume": "29",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "Netease Fuxi AI Lab, Netease, Hangzhou, Zhejiang, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089669611",
+                        "id": 37089669611,
+                        "full_name": "Jiali Chen",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Netease Fuxi AI Lab, Netease, Hangzhou, Zhejiang, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Netease Fuxi AI Lab, Netease, Hangzhou, Zhejiang, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37088220743",
+                        "id": 37088220743,
+                        "full_name": "Changjie Fan",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Netease Fuxi AI Lab, Netease, Hangzhou, Zhejiang, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Netease Fuxi AI Lab, Netease, Hangzhou, Zhejiang, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089016392",
+                        "id": 37089016392,
+                        "full_name": "Zhimeng Zhang",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Netease Fuxi AI Lab, Netease, Hangzhou, Zhejiang, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Netease Fuxi AI Lab, Netease, Hangzhou, Zhejiang, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089666402",
+                        "id": 37089666402,
+                        "full_name": "Gongzheng Li",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Netease Fuxi AI Lab, Netease, Hangzhou, Zhejiang, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Netease Fuxi AI Lab, Netease, Hangzhou, Zhejiang, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089666593",
+                        "id": 37089666593,
+                        "full_name": "Zeng Zhao",
+                        "author_order": 5,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Netease Fuxi AI Lab, Netease, Hangzhou, Zhejiang, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Computer Science, University of Houston, Houston, TX, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37287682300",
+                        "id": 37287682300,
+                        "full_name": "Zhigang Deng",
+                        "author_order": 6,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science, University of Houston, Houston, TX, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Netease Fuxi AI Lab, Netease, Hangzhou, Zhejiang, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37088459399",
+                        "id": 37088459399,
+                        "full_name": "Yu Ding",
+                        "author_order": 7,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Netease Fuxi AI Lab, Netease, Hangzhou, Zhejiang, China"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Journals",
+            "abstract": "To date relatively few efforts have been made on the automatic generation of musical instrument playing animations. This problem is challenging due to the intrinsically complex, temporal relationship between music and human motion as well as the lacking of high quality music-playing motion datasets. In this article, we propose a fully automatic, deep learning based framework to synthesize realistic upper body animations based on novel guzheng music input. Specifically, based on a recorded audiovisual motion capture dataset, we delicately design a generative adversarial network (GAN) based approach to capture the temporal relationship between the music and the human motion data. In this process, data augmentation is employed to improve the generalization of our approach to handle a variety of guzheng music inputs. Through extensive objective and subjective experiments, we show that our method can generate visually plausible guzheng-playing animations that are well synchronized with the input guzheng music, and it can significantly outperform the state-of-the-art methods. In addition, through an ablation study, we validate the contributions of the carefully-designed modules in our framework.",
+            "article_number": "9551755",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9551755",
+            "html_url": "https://ieeexplore.ieee.org/document/9551755/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/9551755/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 10003072,
+            "publication_year": 2023,
+            "publication_date": "1 Feb. 2023",
+            "start_page": "1400",
+            "end_page": "1414",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 376,
+            "insert_date": "20210928",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Animation",
+                        "Generative adversarial networks",
+                        "Instruments",
+                        "Motion segmentation",
+                        "Hidden Markov models",
+                        "Facial animation",
+                        "Deep learning"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Deep learning",
+                        "generative adversarial networks",
+                        "motion capture",
+                        "guzheng animation",
+                        "music-driven",
+                        "data augmentation"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2023.3240503",
+            "title": "A Parametric Design Method for Engraving Patterns on Thin Shells",
+            "publisher": "IEEE",
+            "issue": "99",
+            "issn": "2160-9306",
+            "rank": 17,
+            "volume": "PP",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "DUT-RU International School of Information and Software Engineering and Key Laboratory for Ubiquitous Network and Service Software of Liaoning Province, Dalian University of Technology, China",
+                        "full_name": "Jiangbei Hu",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "DUT-RU International School of Information and Software Engineering and Key Laboratory for Ubiquitous Network and Service Software of Liaoning Province, Dalian University of Technology, China",
+                                "School of Computer Science and Engineering, Nanyang Technological University, Singapore"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "DUT-RU International School of Information and Software Engineering, Dalian University of Technology, China",
+                        "full_name": "Shengfa Wang",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "DUT-RU International School of Information and Software Engineering, Dalian University of Technology, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "School of Computer Science and Engineering, Nanyang Technological University, Singapore",
+                        "full_name": "Ying He",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "School of Computer Science and Engineering, Nanyang Technological University, Singapore"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "School of Software Technology, Dalian University of Technology, China",
+                        "full_name": "Zhongxuan Luo",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "School of Software Technology, Dalian University of Technology, China",
+                                "Institute of Artificial Intelligence, Guilin University of Electronic Technology, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "DUT-RU International School of Information and Software Engineering, Dalian University of Technology, China",
+                        "full_name": "Na Lei",
+                        "author_order": 5,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "DUT-RU International School of Information and Software Engineering, Dalian University of Technology, China",
+                                "Beijing Advanced Innovation Center for Imaging Theory and Technology, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "School of Mathematical Sciences, University of Science and Technology of China, Chia",
+                        "full_name": "Ligang Liu",
+                        "author_order": 6,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "School of Mathematical Sciences, University of Science and Technology of China, Chia"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Early Access Articles",
+            "abstract": "Designing thin-shell structures that are diverse, lightweight, and physically viable is a challenging task for traditional heuristic methods. To address this challenge, we present a novel parametric design framework for engraving regular, irregular, and customized patterns on thin-shell structures. Our method optimizes pattern parameters such as size and orientation, to ensure structural stiffness while minimizing material consumption. Our method is unique in that it works directly with shapes and patterns represented by functions, and can engrave patterns through simple function operations. By eliminating the need for remeshing in traditional FEM methods, our method is more computationally efficient in optimizing mechanical properties and can significantly increase the diversity of shell structure design. Quantitative evaluation confirms the convergence of the proposed method. We conduct experiments on regular, irregular, and customized patterns and present 3D printed results to demonstrate the effectiveness of our approach.",
+            "article_number": "10043789",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10043789",
+            "html_url": "https://ieeexplore.ieee.org/document/10043789/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/10043789/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 4359476,
+            "publication_year": 2023,
+            "start_page": "1",
+            "end_page": "12",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 105,
+            "insert_date": "20230213",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Optimization",
+                        "Shape",
+                        "Topology",
+                        "Design methodology",
+                        "Computational modeling",
+                        "Solid modeling",
+                        "Three-dimensional displays"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Parametric design",
+                        "pattern engraving",
+                        "structural optimization",
+                        "thin shells"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2021.3137174",
+            "title": "A Predictive Visual Analytics System for Studying Neurodegenerative Disease Based on DTI Fiber Tracts",
+            "publisher": "IEEE",
+            "issue": "4",
+            "issn": "2160-9306",
+            "rank": 18,
+            "volume": "29",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "College of Computer Science, Zhejiang University of Technology, Hangzhou, Zhejiang, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089521621",
+                        "id": 37089521621,
+                        "full_name": "Chaoqing Xu",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "College of Computer Science, Zhejiang University of Technology, Hangzhou, Zhejiang, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "University of California, Davis, CA, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37085904790",
+                        "id": 37085904790,
+                        "full_name": "Tyson Neuroth",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "University of California, Davis, CA, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "University of California, Davis, CA, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37086133964",
+                        "id": 37086133964,
+                        "full_name": "Takanori Fujiwara",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "University of California, Davis, CA, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "College of Computer Science, Zhejiang University of Technology, Hangzhou, Zhejiang, China",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37429998500",
+                        "id": 37429998500,
+                        "full_name": "Ronghua Liang",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "College of Computer Science, Zhejiang University of Technology, Hangzhou, Zhejiang, China"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "University of California, Davis, CA, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37275869400",
+                        "id": 37275869400,
+                        "full_name": "Kwan-Liu Ma",
+                        "author_order": 5,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "University of California, Davis, CA, USA"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Journals",
+            "abstract": "Diffusion tensor imaging (DTI) has been used to study the effects of neurodegenerative diseases on neural pathways, which may lead to more reliable and early diagnosis of these diseases as well as a better understanding of how they affect the brain. We introduce a predictive visual analytics system for studying patient groups based on their labeled DTI fiber tract data and corresponding statistics. The system\u2019s machine-learning-augmented interface guides the user through an organized and holistic analysis space, including the statistical feature space, the physical space, and the space of patients over different groups. We use a custom machine learning pipeline to help narrow down this large analysis space and then explore it pragmatically through a range of linked visualizations. We conduct several case studies using DTI and T1-weighted images from the research database of Parkinson\u2019s Progression Markers Initiative.",
+            "article_number": "9665344",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9665344",
+            "html_url": "https://ieeexplore.ieee.org/document/9665344/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/9665344/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 10054568,
+            "publication_year": 2023,
+            "publication_date": "1 April 2023",
+            "start_page": "2020",
+            "end_page": "2035",
+            "citing_paper_count": 1,
+            "citing_patent_count": 0,
+            "download_count": 239,
+            "insert_date": "20211229",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Diseases",
+                        "Data visualization",
+                        "Tensors",
+                        "Diffusion tensor imaging",
+                        "Visual analytics",
+                        "Rendering (computer graphics)",
+                        "Feature extraction"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Brain fiber tracts",
+                        "neurodegenerative disease",
+                        "machine learning",
+                        "predictive visual analytics",
+                        "visualization"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2023.3241596",
+            "title": "A Qualitative Interview Study of Distributed Tracing Visualisation: A Characterisation of Challenges and Opportunities",
+            "publisher": "IEEE",
+            "issue": "99",
+            "issn": "2160-9306",
+            "rank": 19,
+            "volume": "PP",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "Max Planck Institute for Software Systems, University of Saarland, Saarbr\u00fccken, Germany",
+                        "full_name": "Thomas Davidson",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Max Planck Institute for Software Systems, University of Saarland, Saarbr\u00fccken, Germany"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Emory University, Atlanta, GA, USA",
+                        "full_name": "Emily Wall",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Emory University, Atlanta, GA, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Max Planck Institute for Software Systems, University of Saarland, Saarbr\u00fccken, Germany",
+                        "full_name": "Jonathan Mace",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Max Planck Institute for Software Systems, University of Saarland, Saarbr\u00fccken, Germany"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Early Access Articles",
+            "abstract": "Distributed tracing tools have emerged in recent years to enable operators of modern internet applications to troubleshoot cross-component problems in deployed applications. Due to the rich, detailed diagnostic data captured by distributed tracing tools, effectively presenting this data is important. However, use of visualisation to enable sensemaking of this complex data in distributed tracing tools has received relatively little attention. Consequently, operators struggle to make effective use of existing tools. In this paper we present the first characterisation of distributed tracing visualisation through a qualitative interview study with six practitioners from two large internet companies. Across two rounds of 1-on-1 interviews we use grounded theory coding to establish users, extract concrete use cases and identify shortcomings of existing distributed tracing tools. We derive guidelines for development of future distributed tracing tools and expose several open research problems that have wide reaching implications for visualisation research and other domains.",
+            "article_number": "10034850",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10034850",
+            "html_url": "https://ieeexplore.ieee.org/document/10034850/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/10034850/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 4359476,
+            "publication_year": 2023,
+            "start_page": "1",
+            "end_page": "12",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 103,
+            "insert_date": "20230201",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Data visualization",
+                        "Interviews",
+                        "Distributed databases",
+                        "Task analysis",
+                        "Social networking (online)",
+                        "Microservice architectures",
+                        "Guidelines"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Visualisation",
+                        "Distributed Tracing",
+                        "Systems"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2023.3274572",
+            "title": "A Scalable Method for Readable Tree Layouts",
+            "publisher": "IEEE",
+            "issue": "99",
+            "issn": "2160-9306",
+            "rank": 20,
+            "volume": "PP",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "Department of Computer Science, University of Arizona, Tucson, AZ, USA",
+                        "full_name": "Kathryn Gray",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science, University of Arizona, Tucson, AZ, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Computer Science, University of Arizona, Tucson, AZ, USA",
+                        "full_name": "Mingwei Li",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science, University of Arizona, Tucson, AZ, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Computer Science, University of Arizona, Tucson, AZ, USA",
+                        "full_name": "Reyan Ahmed",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science, University of Arizona, Tucson, AZ, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Computer Science, Indiana University, Bloomington, USA",
+                        "full_name": "Md. Khaledur Rahman",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Computer Science, Indiana University, Bloomington, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Computer Science, Indiana University, Bloomington, USA",
+                        "full_name": "Ariful Azad",
+                        "author_order": 5,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Computer Science, Indiana University, Bloomington, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Department of Computer Science, University of Arizona, Tucson, AZ, USA",
+                        "full_name": "Stephen Kobourov",
+                        "author_order": 6,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Department of Computer Science, University of Arizona, Tucson, AZ, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "SLIS, Indiana University, Bloomington, USA",
+                        "full_name": "Katy B\u00f6rner",
+                        "author_order": 7,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "SLIS, Indiana University, Bloomington, USA"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Early Access Articles",
+            "abstract": "Large tree structures are ubiquitous and real-world relational datasets often have information associated with nodes (e.g., labels or other attributes) and edges (e.g., weights or distances) that need to be communicated to the viewers. Yet, scalable, easy to read tree layouts are difficult to achieve. We consider tree layouts to be readable if they meet some basic requirements: node labels should not overlap, edges should not cross, edge lengths should be preserved, and the output should be compact. There are many algorithms for drawing trees, although very few take node labels or edge lengths into account, and none optimizes all requirements above. With this in mind, we propose a new scalable method for readable tree layouts. The algorithm guarantees that the layout has no edge crossings and no label overlaps, and optimizing one of the remaining aspects: desired edge lengths and compactness. We evaluate the performance of the new algorithm by comparison with related earlier approaches using several real-world datasets, ranging from a few thousand nodes to hundreds of thousands of nodes. Tree layout algorithms can be used to visualize large general graphs, by extracting a hierarchy of progressively larger trees. We illustrate this functionality by presenting several map-like visualizations generated by the new tree layout algorithm.",
+            "article_number": "10122175",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10122175",
+            "html_url": "https://ieeexplore.ieee.org/document/10122175/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/10122175/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 4359476,
+            "publication_year": 2023,
+            "start_page": "1",
+            "end_page": "15",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 0,
+            "insert_date": "20230509",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Layout",
+                        "Visualization",
+                        "Vegetation",
+                        "Semantics",
+                        "Optimization",
+                        "Topology",
+                        "Stress"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Tree layouts",
+                        "force-directed",
+                        "readability"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2022.3209472",
+            "title": "A Scanner Deeply: Predicting Gaze Heatmaps on Visualizations Using Crowdsourced Eye Movement Data",
+            "publisher": "IEEE",
+            "issue": "1",
+            "issn": "2160-9306",
+            "rank": 21,
+            "volume": "29",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "University of Maryland, College Park, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37086291951",
+                        "id": 37086291951,
+                        "full_name": "Sungbok Shin",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "University of Maryland, College Park, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Kakao Corp., South Korea",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089640423",
+                        "id": 37089640423,
+                        "full_name": "Sunghyo Chung",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Kakao Corp., South Korea"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Oregon State University, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089641789",
+                        "id": 37089641789,
+                        "full_name": "Sanghyun Hong",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Oregon State University, USA"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "University of Maryland, College Park, USA",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37295438200",
+                        "id": 37295438200,
+                        "full_name": "Niklas Elmqvist",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "University of Maryland, College Park, USA"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Journals",
+            "abstract": "Visual perception is a key component of data visualization. Much prior empirical work uses eye movement as a proxy to understand human visual perception. Diverse apparatus and techniques have been proposed to collect eye movements, but there is still no optimal approach. In this paper, we review 30 prior works for collecting eye movements based on three axes: (1) the tracker technology used to measure eye movements; (2) the image stimulus shown to participants; and (3) the collection methodology used to gather the data. Based on this taxonomy, we employ a webcam-based eyetracking approach using task-specific visualizations as the stimulus. The low technology requirement means that virtually anyone can participate, thus enabling us to collect data at large scale using crowdsourcing: approximately 12,000 samples in total. Choosing visualization images as stimulus means that the eye movements will be specific to perceptual tasks associated with visualization. We use these data to propose a Scanner Deeply, a virtual eyetracker model that, given an image of a visualization, generates a gaze heatmap for that image. We employ a computationally efficient, yet powerful convolutional neural network for our model. We compare the results of our work with results from the DVS model and a neural network trained on the Salicon dataset. The analysis of our gaze patterns enables us to understand how users grasp the structure of visualized data. We also make our stimulus dataset of visualization images available as part of this paper's contribution.",
+            "article_number": "9904490",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9904490",
+            "html_url": "https://ieeexplore.ieee.org/document/9904490/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/9904490/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 9991003,
+            "publication_year": 2023,
+            "publication_date": "Jan. 2023",
+            "start_page": "396",
+            "end_page": "406",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 431,
+            "insert_date": "20220927",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Data visualization",
+                        "Predictive models",
+                        "Crowdsourcing",
+                        "Webcams",
+                        "Visualization",
+                        "Data models",
+                        "Task analysis"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Gaze prediction",
+                        "visualization",
+                        "webcam-based eye-tracking",
+                        "crowdsourcing",
+                        "deep learning"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2023.3247102",
+            "title": "A Study of Change Blindness in Immersive Environments",
+            "publisher": "IEEE",
+            "issue": "5",
+            "issn": "2160-9306",
+            "rank": 22,
+            "volume": "29",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "Universidad de Zaragoza, I3A, Spain",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089354293",
+                        "id": 37089354293,
+                        "full_name": "Daniel Martin",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Universidad de Zaragoza, I3A, Spain"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Adobe Research, United States",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089784299",
+                        "id": 37089784299,
+                        "full_name": "Xin Sun",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Adobe Research, United States"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Universidad de Zaragoza, I3A, Spain",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37086181449",
+                        "id": 37086181449,
+                        "full_name": "Diego Gutierrez",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Universidad de Zaragoza, I3A, Spain"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Universidad de Zaragoza, I3A, Spain",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37086226523",
+                        "id": 37086226523,
+                        "full_name": "Belen Masia",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Universidad de Zaragoza, I3A, Spain"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Journals",
+            "abstract": "Human performance is poor at detecting certain changes in a scene, a phenomenon known as change blindness. Although the exact reasons of this effect are not yet completely understood, there is a consensus that it is due to our constrained attention and memory capacity: We create our own mental, structured representation of what surrounds us, but such representation is limited and imprecise. Previous efforts investigating this effect have focused on 2D images; however, there are significant differences regarding attention and memory between 2D images and the viewing conditions of daily life. In this work, we present a systematic study of change blindness using immersive 3D environments, which offer more natural viewing conditions closer to our daily visual experience. We devise two experiments; first, we focus on analyzing how different change properties (namely type, distance, complexity, and field of view) may affect change blindness. We then further explore its relation with the capacity of our visual working memory and conduct a second experiment analyzing the influence of the number of changes. Besides gaining a deeper understanding of the change blindness effect, our results may be leveraged in several VR applications such as redirected walking, games, or even studies on saliency or attention prediction.",
+            "article_number": "10049723",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049723",
+            "html_url": "https://ieeexplore.ieee.org/document/10049723/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/10049723/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 10086958,
+            "publication_year": 2023,
+            "publication_date": "May 2023",
+            "start_page": "2446",
+            "end_page": "2455",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 153,
+            "insert_date": "20230222",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Blindness",
+                        "Visualization",
+                        "Complexity theory",
+                        "Three-dimensional displays",
+                        "Observers",
+                        "Systematics",
+                        "Media"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Virtual reality",
+                        "change blindness",
+                        "visual working memory",
+                        "attention"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2023.3247081",
+            "title": "A Survey on Remote Assistance and Training in Mixed Reality Environments",
+            "publisher": "IEEE",
+            "issue": "5",
+            "issn": "2160-9306",
+            "rank": 23,
+            "volume": "29",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "INESC-ID, Instituto Superior T\u00e9cnico, University of Lisbon and Carnegie Mellon University, United States",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089781485",
+                        "id": 37089781485,
+                        "full_name": "Catarina G. Fidalgo",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "INESC-ID, Instituto Superior T\u00e9cnico, University of Lisbon and Carnegie Mellon University, United States"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Carnegie Mellon University, United States",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089783951",
+                        "id": 37089783951,
+                        "full_name": "Yukang Yan",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Carnegie Mellon University, United States"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Carnegie Mellon University, United States",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089782373",
+                        "id": 37089782373,
+                        "full_name": "Hyunsung Cho",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Carnegie Mellon University, United States"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "University of Toronto, Canada",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37086103627",
+                        "id": 37086103627,
+                        "full_name": "Maur\u00edcio Sousa",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "University of Toronto, Canada"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Carnegie Mellon University, United States",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37085870555",
+                        "id": 37085870555,
+                        "full_name": "David Lindlbauer",
+                        "author_order": 5,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Carnegie Mellon University, United States"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "INESC-ID and Instituto Superior T\u00e9cnico, University of Lisbon, Portugal",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37267057600",
+                        "id": 37267057600,
+                        "full_name": "Joaquim Jorge",
+                        "author_order": 6,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "INESC-ID and Instituto Superior T\u00e9cnico, University of Lisbon, Portugal"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Journals",
+            "abstract": "The recent pandemic, war, and oil crises have caused many to reconsider their need to travel for education, training, and meetings. Providing assistance and training remotely has thus gained importance for many applications, from industrial maintenance to surgical telemonitoring. Current solutions such as video conferencing platforms lack essential communication cues such as spatial referencing, which negatively impacts both time completion and task performance. Mixed Reality (MR) offers opportunities to improve remote assistance and training, as it opens the way to increased spatial clarity and large interaction space. We contribute a survey of remote assistance and training in MR environments through a systematic literature review to provide a deeper understanding of current approaches, benefits and challenges. We analyze 62 articles and contextualize our findings along a taxonomy based on degree of collaboration, perspective sharing, MR space symmetry, time, input and output modality, visual display, and application domain. We identify the main gaps and opportunities in this research area, such as exploring collaboration scenarios beyond one-expert-to-one-trainee, enabling users to move across the reality-virtuality spectrum during a task, or exploring advanced interaction techniques that resort to hand or eye tracking. Our survey informs and helps researchers in different domains, including maintenance, medicine, engineering, or education, build and evaluate novel MR approaches to remote training and assistance. All supplemental materials are available at https://augmented-perception.org/publications/2023-training-survey.html.",
+            "article_number": "10049704",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049704",
+            "html_url": "https://ieeexplore.ieee.org/document/10049704/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/10049704/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 10086958,
+            "publication_year": 2023,
+            "publication_date": "May 2023",
+            "start_page": "2291",
+            "end_page": "2303",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 273,
+            "insert_date": "20230222",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Training",
+                        "Virtual reality",
+                        "Collaboration",
+                        "Mixed reality",
+                        "Task analysis",
+                        "Maintenance engineering",
+                        "Visualization"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Mixed Reality",
+                        "Virtual Reality",
+                        "Augmented Reality",
+                        "Extended Reality",
+                        "Remote",
+                        "Collaboration",
+                        "Training",
+                        "Assistance"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2022.3141383",
+            "title": "A Systematic Review of Navigation Assistance Systems for People With Dementia",
+            "publisher": "IEEE",
+            "issue": "4",
+            "issn": "2160-9306",
+            "rank": 24,
+            "volume": "29",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "Ecole Centrale de Nantes, AAU, UMR CNRS 1563, Nantes, France",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37088482381",
+                        "id": 37088482381,
+                        "full_name": "L\u00e9a Pillette",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Ecole Centrale de Nantes, AAU, UMR CNRS 1563, Nantes, France"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "IMT Atlantique, Lab-STICC, UMR CNRS 6285, Brest, France",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/38242130500",
+                        "id": 38242130500,
+                        "full_name": "Guillaume Moreau",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "IMT Atlantique, Lab-STICC, UMR CNRS 6285, Brest, France",
+                                "Inria (Univ. Rennes, CNRS, IRISA), Campus de Beaulieu, Rennes, France"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Ecole Centrale de Nantes, AAU, UMR CNRS 1563, Nantes, France",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37586654800",
+                        "id": 37586654800,
+                        "full_name": "Jean-Marie Normand",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Ecole Centrale de Nantes, AAU, UMR CNRS 1563, Nantes, France"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Physical and Rehabilitation Medecine Unit, University Hospital of Rennes, Rennes, France",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089746759",
+                        "id": 37089746759,
+                        "full_name": "Manon Perrier",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Physical and Rehabilitation Medecine Unit, University Hospital of Rennes, Rennes, France"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Inria (Univ. Rennes, CNRS, IRISA), Campus de Beaulieu, Rennes, France",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37295204100",
+                        "id": 37295204100,
+                        "full_name": "Anatole L\u00e9cuyer",
+                        "author_order": 5,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Inria (Univ. Rennes, CNRS, IRISA), Campus de Beaulieu, Rennes, France"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Physical and Rehabilitation Medecine Unit, University Hospital of Rennes, Rennes, France",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089571746",
+                        "id": 37089571746,
+                        "full_name": "M\u00e9lanie Cogn\u00e9",
+                        "author_order": 6,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Physical and Rehabilitation Medecine Unit, University Hospital of Rennes, Rennes, France",
+                                "Inria (Univ. Rennes, CNRS, IRISA), Campus de Beaulieu, Rennes, France"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Journals",
+            "abstract": "Technological developments provide solutions to alleviate the tremendous impact on the health and autonomy due to the impact of dementia on navigation abilities. We systematically reviewed the literature on devices tested to provide assistance to people with dementia during indoor, outdoor and virtual navigation (PROSPERO ID number: 215585). Medline and Scopus databases were searched from inception. Our aim was to summarize the results from the literature to guide future developments. Twenty-three articles were included in our study. Three types of information were extracted from these studies. First, the types of navigation advice the devices provided were assessed through: (i) the sensorial modality of presentation, e.g., visual and tactile stimuli, (ii) the navigation content, e.g., landmarks, and (iii) the timing of presentation, e.g., systematically at intersections. Second, we analyzed the technology that the devices were based on, e.g., smartphone. Third, the experimental methodology used to assess the devices and the navigation outcome was evaluated. We report and discuss the results from the literature based on these three main characteristics. Finally, based on these considerations, recommendations are drawn, challenges are identified and potential solutions are suggested. Augmented reality-based devices, intelligent tutoring systems and social support should particularly further be explored.",
+            "article_number": "9676472",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9676472",
+            "html_url": "https://ieeexplore.ieee.org/document/9676472/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/9676472/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 10054568,
+            "publication_year": 2023,
+            "publication_date": "1 April 2023",
+            "start_page": "2146",
+            "end_page": "2165",
+            "citing_paper_count": 1,
+            "citing_patent_count": 0,
+            "download_count": 305,
+            "insert_date": "20220110",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Navigation",
+                        "Dementia",
+                        "Data mining",
+                        "Systematics",
+                        "Timing",
+                        "Statistics",
+                        "Sociology"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Information interfaces and representation (HCI)",
+                        "health care",
+                        "navigation",
+                        "dementia",
+                        "Alzheimer",
+                        "augmented reality"
+                    ]
+                }
+            }
+        },
+        {
+            "doi": "10.1109/TVCG.2023.3247072",
+            "title": "A Systematic Review on the Visualization of Avatars and Agents in AR & VR displayed using Head-Mounted Displays",
+            "publisher": "IEEE",
+            "issue": "5",
+            "issn": "2160-9306",
+            "rank": 25,
+            "volume": "29",
+            "authors": {
+                "authors": [
+                    {
+                        "affiliation": "Virtual Worlds and Digital Games Group, Technische Universit\u00e4t Ilmenau, Germany",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37086035127",
+                        "id": 37086035127,
+                        "full_name": "Florian Weidner",
+                        "author_order": 1,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Virtual Worlds and Digital Games Group, Technische Universit\u00e4t Ilmenau, Germany"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Virtual Worlds and Digital Games Group, Technische Universit\u00e4t Ilmenau, Germany",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089788034",
+                        "id": 37089788034,
+                        "full_name": "Gerd Boettcher",
+                        "author_order": 2,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Virtual Worlds and Digital Games Group, Technische Universit\u00e4t Ilmenau, Germany"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Audiovisual Technology Group, Technische Universit\u00e4t Ilmenau, Germany",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37088531078",
+                        "id": 37088531078,
+                        "full_name": "Stephanie Arevalo Arboleda",
+                        "author_order": 3,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Audiovisual Technology Group, Technische Universit\u00e4t Ilmenau, Germany"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Audiovisual Technology Group, Technische Universit\u00e4t Ilmenau, Germany",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089785125",
+                        "id": 37089785125,
+                        "full_name": "Chenyao Diao",
+                        "author_order": 4,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Audiovisual Technology Group, Technische Universit\u00e4t Ilmenau, Germany"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Audiovisual Technology Group, Technische Universit\u00e4t Ilmenau, Germany",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37089785386",
+                        "id": 37089785386,
+                        "full_name": "Luljeta Sinani",
+                        "author_order": 5,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Audiovisual Technology Group, Technische Universit\u00e4t Ilmenau, Germany"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Virtual Worlds and Digital Games Group, Technische Universit\u00e4t Ilmenau, Germany",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37086580967",
+                        "id": 37086580967,
+                        "full_name": "Christian Kunert",
+                        "author_order": 6,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Virtual Worlds and Digital Games Group, Technische Universit\u00e4t Ilmenau, Germany"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Virtual Worlds and Digital Games Group, Technische Universit\u00e4t Ilmenau, Germany",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37086338487",
+                        "id": 37086338487,
+                        "full_name": "Christoph Gerhardt",
+                        "author_order": 7,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Virtual Worlds and Digital Games Group, Technische Universit\u00e4t Ilmenau, Germany"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Virtual Worlds and Digital Games Group, Technische Universit\u00e4t Ilmenau, Germany",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37273852500",
+                        "id": 37273852500,
+                        "full_name": "Wolfgang Broll",
+                        "author_order": 8,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Virtual Worlds and Digital Games Group, Technische Universit\u00e4t Ilmenau, Germany"
+                            ]
+                        }
+                    },
+                    {
+                        "affiliation": "Audiovisual Technology Group, Technische Universit\u00e4t Ilmenau, Germany",
+                        "authorUrl": "https://ieeexplore.ieee.org/author/37540405800",
+                        "id": 37540405800,
+                        "full_name": "Alexander Raake",
+                        "author_order": 9,
+                        "authorAffiliations": {
+                            "authorAffiliation": [
+                                "Audiovisual Technology Group, Technische Universit\u00e4t Ilmenau, Germany"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "access_type": "LOCKED",
+            "content_type": "Journals",
+            "abstract": "Augmented Reality (AR) and Virtual Reality (VR) are pushing from the labs towards consumers, especially with social applications. These applications require visual representations of humans and intelligent entities. However, displaying and animating photo-realistic models comes with a high technical cost while low-fidelity representations may evoke eeriness and overall could degrade an experience. Thus, it is important to carefully select what kind of avatar to display. This article investigates the effects of rendering style and visible body parts in AR and VR by adopting a systematic literature review. We analyzed 72 papers that compare various avatar representations. Our analysis includes an outline of the research published between 2015 and 2022 on the topic of avatars and agents in AR and VR displayed using head-mounted displays, covering aspects like visible body parts (e.g., hands only, hands and head, full-body) and rendering style (e.g., abstract, cartoon, realistic); an overview of collected objective and subjective measures (e.g., task performance, presence, user experience, body ownership); and a classification of tasks where avatars and agents were used into task domains (physical activity, hand interaction, communication, game-like scenarios, and education/training). We discuss and synthesize our results within the context of today's AR and VR ecosystem, provide guidelines for practitioners, and finally identify and present promising research opportunities to encourage future research of avatars and agents in AR/VR environments.",
+            "article_number": "10049669",
+            "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049669",
+            "html_url": "https://ieeexplore.ieee.org/document/10049669/",
+            "abstract_url": "https://ieeexplore.ieee.org/document/10049669/",
+            "publication_title": "IEEE Transactions on Visualization and Computer Graphics",
+            "publication_number": 2945,
+            "is_number": 10086958,
+            "publication_year": 2023,
+            "publication_date": "May 2023",
+            "start_page": "2596",
+            "end_page": "2606",
+            "citing_paper_count": 0,
+            "citing_patent_count": 0,
+            "download_count": 347,
+            "insert_date": "20230222",
+            "index_terms": {
+                "ieee_terms": {
+                    "terms": [
+                        "Avatars",
+                        "Rendering (computer graphics)",
+                        "Task analysis",
+                        "Visualization",
+                        "Systematics",
+                        "Head-mounted displays",
+                        "Databases"
+                    ]
+                },
+                "author_terms": {
+                    "terms": [
+                        "Virtual reality",
+                        "augmented reality",
+                        "avatars",
+                        "visualization"
+                    ]
+                }
+            }
+        }
+    ]
+}

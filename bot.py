@@ -45,14 +45,14 @@ def post_message(message, channel, image_url=None):
 
 def check_new_articles(title, posted_articles_file):
     posted_articles = []
-    with open(posted_articles_file, "r") as f:
+    with open(posted_articles_file, "r", encoding='utf-8', errors='ignore') as f:
         for line in f:
             posted_articles.append(line.strip())
 
     if title in posted_articles:
         return False
     else:
-        with open(posted_articles_file, "a") as f:
+        with open(posted_articles_file, "a", encoding='utf-8', errors='ignore') as f:
             f.write(title + "\n")
         return True
 
@@ -131,47 +131,61 @@ if __name__ == "__main__":
             log.log("Posted new papers")
 
             try:
-                new_articles = get_new_articles(egdl.get_recently_added_links(), "posted_articles_eg.txt")
-                post_articles(new_articles, "EGに新しい論文が追加されました！", "#new-papers-bot")
+                new_articles = get_new_articles(
+                    egdl.get_recently_added_links(), "posted_articles_eg.txt")
+                post_articles(new_articles, "EGに新しい論文が追加されました！",
+                              "#new-papers-bot")
             except Exception as e:
                 log.log("[EG] Error: " + str(e))
 
             try:
-                new_articles = get_new_articles(tog.get_recently_added_links(), "posted_articles_tog.txt")
-                post_articles(new_articles, "ToGに新しい論文が追加されました！", "#new-papers-bot")
+                new_articles = get_new_articles(
+                    tog.get_recently_added_links(), "posted_articles_tog.txt")
+                post_articles(new_articles, "ToGに新しい論文が追加されました！",
+                              "#new-papers-bot")
             except Exception as e:
                 log.log("[ToG] Error: " + str(e))
 
             try:
-                new_articles = get_new_articles(cgit.get_recently_added_links(), "posted_articles_cgit.txt")
-                post_articles(new_articles, "CGITに新しい論文が追加されました！", "#new-papers-bot")
+                new_articles = get_new_articles(
+                    cgit.get_recently_added_links(), "posted_articles_cgit.txt")
+                post_articles(new_articles, "CGITに新しい論文が追加されました！",
+                              "#new-papers-bot")
             except Exception as e:
                 log.log("[CGIT] Error: " + str(e))
 
             try:
-                new_articles = get_new_articles(tvc.get_recently_added_links(), "posted_articles_tvc.txt")
-                post_articles(new_articles, "TVCに新しい論文が追加されました！", "#new-papers-bot")
+                new_articles = get_new_articles(
+                    tvc.get_recently_added_links(), "posted_articles_tvc.txt")
+                post_articles(new_articles, "TVCに新しい論文が追加されました！",
+                              "#new-papers-bot")
             except Exception as e:
                 log.log("[TVC] Error: " + str(e))
 
             try:
                 articles = jcgt.get_recently_added_articles()
-                new_articles = [article for article in articles if check_new_articles(article.title, "posted_articles_jcgt.txt")]
-                post_articles(new_articles, "JCGTに新しい論文が追加されました！", "#new-papers-bot")
+                new_articles = [article for article in articles if check_new_articles(
+                    article.title, "posted_articles_jcgt.txt")]
+                post_articles(new_articles, "JCGTに新しい論文が追加されました！",
+                              "#new-papers-bot")
             except Exception as e:
                 log.log("[JCGT] Error: " + str(e))
 
             try:
                 articles = tvcg.get_recently_added_articles()
-                new_articles = [article for article in articles if check_new_articles(article.title, "posted_articles_tvcg.txt")]
-                post_articles(new_articles, "TVCGに新しい論文が追加されました！", "#new-papers-bot")
+                new_articles = [article for article in articles if check_new_articles(
+                    article.title, "posted_articles_tvcg.txt")]
+                post_articles(new_articles, "TVCGに新しい論文が追加されました！",
+                              "#new-papers-bot")
             except Exception as e:
                 log.log("[TVCG] Error: " + str(e))
 
             try:
-                new_articles = get_new_articles(arxiv.get_recently_added_links(), "posted_articles_arxiv_gr.txt")
+                new_articles = get_new_articles(
+                    arxiv.get_recently_added_links(), "posted_articles_arxiv_gr.txt")
                 print(new_articles)
-                post_articles(new_articles, "arXiv/csGRに新しい論文が追加されました！", "#new-arxiv-gr")
+                post_articles(
+                    new_articles, "arXiv/csGRに新しい論文が追加されました！", "#new-arxiv-gr")
             except Exception as e:
                 log.log("[arXiv] Error: " + str(e))
 
