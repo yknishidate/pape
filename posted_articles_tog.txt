@@ -31,3 +31,8 @@ HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance 
 Disentangling Structure and Appearance in ViT Feature Space
 Intrinsic Image Decomposition via Ordinal Shading
 Implicit Surface Tension for SPH Fluid Simulation
+Digital Three-dimensional Smocking Design
+Haisor: Human-aware Indoor Scene Optimization via Deep Reinforcement Learning
+Neural Wavelet-domain Diffusion for 3D Shape Generation, Inversion, and Manipulation
+Promptable Game Models: Text-guided Game Simulation via Masked Diffusion Models
+A Unified MPM Framework Supporting Phase-field Models and Elastic-viscoplastic Phase Transition

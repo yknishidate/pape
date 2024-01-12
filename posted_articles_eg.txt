@@ -76,7 +76,7 @@ Computational Modeling and Design of Nonlinear Mechanical Systems and Materials
 New tools for modelling sensor data
 ARAP Revisited Discretizing the Elastic Energy using Intrinsic Voronoi Cells
 Issue Information
-Corrigendum to ÅgMaking Procedural Water Waves BoundaryÅ]awareÅh, ÅgPrimal/Dual Descent Methods for DynamicsÅh, and ÅgDetailed Rigid Body Simulation with Extended Position Based DynamicsÅh
+Corrigendum to ÔøΩgMaking Procedural Water Waves BoundaryÔøΩ]awareÔøΩh, ÔøΩgPrimal/Dual Descent Methods for DynamicsÔøΩh, and ÔøΩgDetailed Rigid Body Simulation with Extended Position Based DynamicsÔøΩh
 Deep Learning for Scene Flow Estimation on Point Clouds: A Survey and Prospective Trends
 Triangle Influence Supersets for Fast Distance Computation
 Revisiting Visualization Evaluation Using EEG and Visualization Literacy Assessment Test
@@ -99,3 +99,16 @@ Machine Learning Supported Interactive Visualization of Hybrid 3D and 2D Data fo
 Neural Mesh Reconstruction
 Scalable geometry processing for computer graphics applications
 Self-Supervised Shape and Appearance Modeling via Neural Differentiable Graphics
+Virtual Zoomorphic Accessories for Enhancing Perception of Vehicle Dynamics in Real-Time
+Development of Attention Overload Virtual Reality Training System to Extend Effective Attention Resources
+Proposal and Development of a System to Help Students Improve Self-Compassion
+Mitigation of Fear Triggers for Image Viewing in Virtual Reality
+Parallax-based Glyph Composition Technique with Colour-Blending Glyphs
+Fully Controllable Data Generation For Realtime Face Capture
+Progressive Shape Reconstruction from Raw 3D Point Clouds
+Processing Freehand Vector Sketches
+Optimization of Photogrammetric 3D Assets
+Path from Photorealism to Perceptual Realism
+Recognition and representation of curve and surface primitives in digital models via the Hough transform
+Computer Vision and Deep Learning based road monitoring towards a Connected, Cooperative and Automated Mobility
+Deep Learning with Differentiable Rasterization for Vector Graphics analysis Deep Learning with Differentiable

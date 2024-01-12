@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+
 class Article:
     def __init__(self, page_link):
         html = requests.get(page_link.url).text
@@ -18,13 +19,15 @@ class Article:
             return abstract.text
         else:
             return ""
-    
+
     def _get_authors(self, soup):
         authors = []
-        author_elements = soup.find_all("div", class_="ds-dc_contributor_author-authority")
+        author_elements = soup.find_all(
+            "div", class_="ds-dc_contributor_author-authority")
         for author_element in author_elements:
             authors.append(author_element.text)
         return authors
+
 
 class PageLink:
     def __init__(self, title, url):
@@ -36,6 +39,7 @@ class PageLink:
 
     def get_article(self):
         return Article(self)
+
 
 def get_recently_added_links():
     # URLを指定
@@ -53,20 +57,24 @@ def get_recently_added_links():
     if recently_added_section:
         # "Recently Added"セクションの次の<ul>要素を取得
         list_element = recently_added_section.find_next("ul")
-        
+
         # <ul>要素内のすべての<li>要素を取得
         page_links = []
         list_items = list_element.find_all("li")
         for item in list_items:
             a = item.find("a")
-            page_links.append(PageLink(a.text, url + a["href"]))
+            title = a.text
+            # remove \n
+            title = title.replace("\n", "")
+            page_links.append(PageLink(title, url + a["href"]))
         return page_links
     else:
         return []
 
+
 def search(query):
     url = "https://diglib.eg.org"
-    
+
     query = query.replace(" ", "+")
     result_url = f"https://diglib.eg.org/discover?scope=%2F&query={query}&submit="
     response = requests.get(result_url)

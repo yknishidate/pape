@@ -239,3 +239,14 @@ Residual network-based ocean wave modelling from satellite images using ensemble
 MFOGCN: multi-feature-based orthogonal graph convolutional network for 3D human motion prediction
 Fast continuous patch-based artistic style transfer for videos
 Masked-attention diffusion guidance for spatially controlling text-to-image generation
+Scene representation using a new two-branch neural network model
+A novel deformable B-spline curve model based on elasticity
+Knowledge-guided multi-perception attention network for image dehazing
+Multi-scale color constancy based on salient varying local spatial statistics
+Welcome to the Year 2024
+Transformer model incorporating local graph semantic attention for image caption
+TMGAN: two-stage multi-domain generative adversarial network for landscape image translation
+STAM: a spatio-temporal adaptive module for improving static convolutions in action recognition
+A self-attention-based fusion framework for facial expression recognition in wavelet domain
+Survey on vision-based dynamic hand gesture recognition
+Stereo-RSSF: stereo robust sparse scene-flow estimation
