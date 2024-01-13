@@ -1,66 +1,21 @@
-Dream Painter: Exploring creative possibilities of AI-aided speech-to-image synthesis in the interactive art context
-An Aquarium of Machines: A Physically Realized Artificial Life Simulation
-Traditional African Dances Preservation Using Deep Learning Techniques
-Three Stage Drawing Transfer: Collaborative Drawing Between a Generative Adversarial Network, Co-robotic Arm, and Five-Year-Old Child
-Woven Behavior and Ornamentation: Simulation-Assisted Design and Application of Self-Shaping Woven Textiles
-FaceType: Crafting Written Impressions of Spoken Expression
-GROUPTHINK: Telepresence and Agency During Live Performance
-Erratics on the Road to Wigan Pier: The Creation of TouchAR
-A Tale of Two Productions: A Christmas Carol On Stage and in VR
-Dissecting My Data Body: How to Know Thyself as a Virtual Reality in the Digital Age
-Field of Leaves: An Interactive Installation Sprouting Leaves Out of Public Money
-The Ghost in The Machine: Digital Stylization and Expressive Re-Materialization of Ancient Ceramics
-In Search of the Plastic Image: a Media Archaeology of Scan Processing
-KineCAM: An Instant Camera for Animated Photographs
-Below Victory: Subsurface Radar Advances for Creative Digital Heritage
-NeRFshop: Interactive Editing of Neural Radiance Fields
-NeRFahedron: A Primitive for Animatable Neural Rendering with Interactive Speed
-Efficient Rendering for Light Field Displays using Tailored Projective Mappings
-Efficient Spatial Resampling Using the PDF Similarity
-Eye-Based Point Rendering for Dynamic Multiview Effects
-Unpaired Translation of 3D Point Clouds with Multi-part Shape Representation
-ManiLoco: A VR-Based Locomotion Method for Concurrent Object Manipulation
-Subspace Culling for Ray-Box Intersection
-Importance-Based Ray Strategies for Dynamic Diffuse Global Illumination
-Joint Neural Denoising of Surfaces and Volumes
-Pixel-wise Guidance for Utilizing Auxiliary Features in Monte Carlo Denoising
-An Interactive Framework for Visually Realistic 3D Motion Synthesis using Evolutionarily-trained Spiking Neural Networks
-G2 Blending Ball B-Spline Curve by B-Spline
-Fast Position-based Multi-Agent Group Dynamics
-Real-Time Sand Dune Simulation
-Differentiable Curl-Noise: Boundary-Respecting Procedural Incompressible Flows Without Discontinuities
-Kiss/Crash: Using Diffusion Models to Explore Real Desire in the Shadow of Artificial Representations
-Immersive experience of Chinese poems and paintings
-Intersection of Seeing: New Ways of Experiencing Reality using Autonomous Volumetric Capture System
-Sonification of a juggling performance using spatial audio
-Lights! Dance! Freeze!: Exploring the dance-musical filmic space using embodied search in an interactive installation
-Bodylab: in virtuo sculpting, painting and performing of full-body avatars
-Movement Quality Visualization for Wheelchair Dance
-Aquaterrestrial Recolonization: AI Environmentalist Toward Design For Climate Action Related Behaviour Change
-Beauty: Explorations of Machine-Microbial Agencies
-Synplant: Cymatics Visualization of Plant-Environment Interaction Based on Plants Biosignals
-The Kestrel Drone: Reimagining Bird's Eye View with Biomimetic AI-drone for Bird Strike Prevention
-Communing with Creative AI
-Using Experimental Filmmaking to Create an Engaging Brain-Computer Interface
-Fine Motor Skills: Operating standard robotic fabrication as a generative system
-Hierarchical Planning and Control for Box Loco-Manipulation
-MAAIP: Multi-Agent Adversarial Interaction Priors for imitation from fighting demonstrations for physics-based characters
-Physics-based Motion Retargeting from Sparse Inputs
-Too Stiff, Too Strong, Too Smart: Evaluating Fundamental Problems with Motion Control Policies
-ACT2G: Attention-based Contrastive Learning for Text-to-Gesture Generation
-HDHumans: A Hybrid Approach for High-fidelity Digital Humans
-Motion In-Betweening with Phase Manifolds
-NeuroDog: Quadruped Embodiment using Neural Networks
-Adaptive Rigidification of Discrete Shells
-An Eigenanalysis of Angle-Based Deformation Energies
-A Unified Analysis of Penalty-Based Collision Energies
-Lifted Curls: A Model for Tightly Coiled Hair Simulation
-Towards Realtime: A Hybrid Physics-based Method for Hair Animation on GPU
-A Linear and Angular Momentum Conserving Hybrid Particle/Grid Iteration for Volumetric Elastic Contact
-Physical Cyclic Animations
-Micropolar Elasticity in Physically-Based Animation
-Two-Way Coupling of Skinning Transformations and Position Based Dynamics
-A comparison of linear consistent correction methods for first-order SPH derivatives
-A Generalized Constitutive Model for Versatile MPM Simulation and Inverse Learning with Differentiable Physics
-A Multilevel Active-Set Preconditioner for Box-Constrained Pressure Poisson Solvers
-DiffXPBD: Differentiable Position-Based Simulation of Compliant Constraint Dynamics
+https://dl.acm.org/doi/10.1145/3606931
+https://dl.acm.org/doi/10.1145/3606926
+https://dl.acm.org/doi/10.1145/3606928
+https://dl.acm.org/doi/10.1145/3606935
+https://dl.acm.org/doi/10.1145/3606940
+https://dl.acm.org/doi/10.1145/3606927
+https://dl.acm.org/doi/10.1145/3606921
+https://dl.acm.org/doi/10.1145/3606936
+https://dl.acm.org/doi/10.1145/3606932
+https://dl.acm.org/doi/10.1145/3606929
+https://dl.acm.org/doi/10.1145/3606934
+https://dl.acm.org/doi/10.1145/3606920
+https://dl.acm.org/doi/10.1145/3606937
+https://dl.acm.org/doi/10.1145/3606924
+https://dl.acm.org/doi/10.1145/3606938
+https://dl.acm.org/doi/10.1145/3606922
+https://dl.acm.org/doi/10.1145/3606930
+https://dl.acm.org/doi/10.1145/3606933
+https://dl.acm.org/doi/10.1145/3606925
+https://dl.acm.org/doi/10.1145/3606939
+https://dl.acm.org/doi/10.1145/3606923

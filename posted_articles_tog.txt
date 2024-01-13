@@ -1,38 +1,5 @@
-As-Continuous-As-Possible Extrusion-Based Fabrication of Surface Models
-Parsing-Conditioned Anime Translation: A New Dataset and Method
-Symmetric Volume Maps: Order-invariant Volumetric Mesh Correspondence with Free Boundary
-Geometric Optimisation Via Spectral Shifting
-Data-driven Digital Lighting Design for Residential Indoor Spaces
-How Important are Detailed Hand Motions for Communication for a Virtual Character Through the Lens of Charades?
-Textured Mesh Quality Assessment: Large-scale Dataset and Deep Learning-based Quality Metric
-A Method for Animating ChildrenÅfs Drawings of the Human Figure
-Ultra-High Resolution SVBRDF Recovery from a Single Image
-Spatiotemporally Consistent HDR Indoor Lighting Estimation
-NeRFFaceLighting: Implicit and Disentangled Face Lighting Representation Leveraging Generative Prior in Neural Radiance Fields
-Large-scale Terrain Authoring through Interactive Erosion Simulation
-Learning Physically Realizable Skills for Online Packing of General 3D Shapes
-Fast GPU-based Two-way Continuous Collision Handling
-Procedural Metamaterials: A Unified Procedural Graph for Metamaterial Design
-A Unified Arbitrary Style Transfer Framework via Adaptive Contrastive Learning
-High-Resolution Volumetric Reconstruction for Clothed Humans
-NeLT: Object-Oriented Neural Light Transfer
-CLIP-guided StyleGAN Inversion for Text-driven Real Image Editing
-Seamless Parametrization with Cone and Partial Loop Control
-The Method of Moving Frames for Surface Global Parametrization
-The Design Space of Kirchhoff Rods
-Joint UV Optimization and Texture Baking
-Light Codes for Fast Two-Way Human-Centric Visual Communication
-A Function-Based Approach to Interactive High-Precision Volumetric Design and Fabrication
-Real-Time Reconstruction of Fluid Flow under Unknown Disturbance
-SparsePoser: Real-time Full-body Motion Reconstruction from Sparse Data
-Latent L-systems: Transformer-based Tree Generator
-Layout-aware Single-image Document Flattening
-HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field
-Disentangling Structure and Appearance in ViT Feature Space
-Intrinsic Image Decomposition via Ordinal Shading
-Implicit Surface Tension for SPH Fluid Simulation
-Digital Three-dimensional Smocking Design
-Haisor: Human-aware Indoor Scene Optimization via Deep Reinforcement Learning
-Neural Wavelet-domain Diffusion for 3D Shape Generation, Inversion, and Manipulation
-Promptable Game Models: Text-guided Game Simulation via Masked Diffusion Models
-A Unified MPM Framework Supporting Phase-field Models and Elastic-viscoplastic Phase Transition
+https://dl.acm.org/doi/10.1145/3631945
+https://dl.acm.org/doi/10.1145/3632947
+https://dl.acm.org/doi/10.1145/3635304
+https://dl.acm.org/doi/10.1145/3635705
+https://dl.acm.org/doi/10.1145/3638047
