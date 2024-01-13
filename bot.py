@@ -43,17 +43,17 @@ def post_message(message, channel, image_url=None):
         print(f"Error posting message: {e}")
 
 
-def check_new_articles(title, posted_articles_file):
+def check_new_articles(page_link, posted_articles_file):
     posted_articles = []
     with open(posted_articles_file, "r", encoding='utf-8', errors='ignore') as f:
         for line in f:
             posted_articles.append(line.strip())
 
-    if title in posted_articles:
+    if page_link.url in posted_articles:
         return False
     else:
         with open(posted_articles_file, "a", encoding='utf-8', errors='ignore') as f:
-            f.write(title + "\n")
+            f.write(page_link.url + "\n")
         return True
 
 
@@ -82,7 +82,7 @@ def post_articles(articles, message_prefix, channel):
 def get_new_articles(page_links, posted_articles_file):
     new_articles = []
     for page_link in page_links:
-        if check_new_articles(page_link.title, posted_articles_file):
+        if check_new_articles(page_link, posted_articles_file):
             article = page_link.get_article()
             new_articles.append(article)
     return new_articles
